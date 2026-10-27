@@ -1,0 +1,2289 @@
+--- P0 [Normal] ---
+CAMPUSLIFE – KRCT: A UNIFIED HUB FOR STUDENT RESOURCES AND COMMUNITY
+--- P1 [Body Text] ---
+
+--- P2 [Heading 1] ---
+A PROJECT REPORT
+--- P3 [Body Text] ---
+
+--- P4 [Normal] ---
+Submitted by
+--- P5 [Body Text] ---
+
+--- P6 [Normal] ---
+ABINAYA A	2303811710422003
+--- P7 [Normal] ---
+AFIYA J	2303811710422004
+--- P8 [Normal] ---
+AGALYA K	2303811710422005
+--- P9 [Normal] ---
+ARCHANA J	2303811710422009
+--- P10 [Body Text] ---
+
+--- P11 [Normal] ---
+In partial fulfillment for the requirements for the award degree of
+--- P12 [Heading 1] ---
+                                              Bachelor of Engineering
+--- P13 [Heading 1] ---
+
+--- P14 [Normal] ---
+CSB1401 – MOBILE APPLICATION DEVELOPMENT
+--- P15 [Body Text] ---
+
+--- P16 [Normal] ---
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+--- P17 [Body Text] ---
+
+--- P18 [Heading 1] ---
+K. RAMAKRISHNAN COLLEGE OF TECHNOLOGY
+--- P19 [Heading 1] ---
+                              (AUTONOMOUS)
+--- P20 [Normal] ---
+SAMAYAPURAM-621112 
+--- P21 [Normal] ---
+        NOVEMBER 2026
+--- P22 [Normal] ---
+
+--- P23 [Normal] ---
+CAMPUSLIFE – KRCT: A UNIFIED HUB FOR STUDENT RESOURCES AND COMMUNITY
+--- P24 [Body Text] ---
+
+--- P25 [Heading 1] ---
+A PROJECT REPORT
+--- P26 [Body Text] ---
+
+--- P27 [Normal] ---
+Submitted by
+--- P28 [Normal] ---
+
+--- P29 [Normal] ---
+
+--- P30 [Normal] ---
+ABINAYA A	2303811710422003
+--- P31 [Normal] ---
+AFIYA J	2303811710422004
+--- P32 [Normal] ---
+AGALYA K	2303811710422005
+--- P33 [Normal] ---
+ARCHANA J	2303811710422009
+--- P34 [Body Text] ---
+
+--- P35 [Body Text] ---
+
+--- P36 [Body Text] ---
+
+--- P37 [Normal] ---
+In partial fulfillment for the requirements for the award degree of
+--- P38 [Heading 1] ---
+                                            Bachelor of Engineering
+--- P39 [Heading 1] ---
+
+--- P40 [Normal] ---
+CSB1401 – MOBILE APPLICATION DEVELOPMENT
+--- P41 [Body Text] ---
+
+--- P42 [Normal] ---
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+--- P43 [Body Text] ---
+
+--- P44 [Heading 1] ---
+K. RAMAKRISHNAN COLLEGE OF TECHNOLOGY
+--- P45 [Heading 1] ---
+                              (AUTONOMOUS)
+--- P46 [Normal] ---
+SAMAYAPURAM-621112 
+--- P47 [Normal] ---
+      NOVEMBER 2026
+--- P48 [Normal] ---
+
+--- P49 [Normal] ---
+K. RAMAKRISHNAN COLLEGE OF TECHNOLOGY (AUTONOMOUS)
+--- P50 [Heading 1] ---
+SAMAYAPURAM – 621 112.
+--- P51 [Body Text] ---
+
+--- P52 [Normal] ---
+BONAFIDE CERTIFICATE
+--- P53 [Body Text] ---
+
+--- P54 [Normal] ---
+The work embodied in the present project report entitled “CAMPUSLIFE – KRCT:   A UNIFIED  HUB   FOR   STUDENT  RESOURCES AND
+--- P55 [Normal] ---
+COMMUNITY” has been carried out by the students ABINAYA A, AFIYA J, AGALYA K, ARCHANA J. The work reported herein is original and we declare that the project is their own work, except where specifically acknowledged, and has not been copied from other sources or been previously submitted for assessment.
+--- P56 [Body Text] ---
+
+--- P57 [Normal] ---
+Date of Viva Voce: ……………………
+--- P58 [Body Text] ---
+
+--- P59 [Body Text] ---
+
+--- P60 [Body Text] ---
+
+--- P61 [Body Text] ---
+
+--- P62 [Body Text] ---
+
+--- P63 [Body Text] ---
+
+--- P64 [Body Text] ---
+
+--- P65 [Heading 3] ---
+Mrs. R. SATHYA, M.E., (Ph.D.,) SUPERVISOR
+--- P66 [Body Text] ---
+Assistant Professor Department of CSE
+--- P67 [Body Text] ---
+K. Ramakrishnan College of Technology (Autonomous)
+--- P68 [Body Text] ---
+Samayapuram – 621 112
+--- P69 [Heading 3] ---
+Mr. R. RAJAVARMAN, M.E., (Ph.D.,) HEAD OF THE DEPARTMENT
+--- P70 [Body Text] ---
+Assistant Professor (Sr. Grade) Department of CSE
+--- P71 [Body Text] ---
+K. Ramakrishnan College of Technology (Autonomous)
+--- P72 [Body Text] ---
+Samayapuram – 621 112
+--- P73 [Body Text] ---
+
+--- P74 [Body Text] ---
+
+--- P75 [Body Text] ---
+
+--- P76 [Body Text] ---
+
+--- P77 [Body Text] ---
+
+--- P78 [Body Text] ---
+
+--- P79 [Body Text] ---
+
+--- P80 [Heading 1] ---
+INTERNAL EXAMINER	EXTERNAL EXAMINER
+--- P81 [Heading 1] ---
+
+--- P82 [Normal] ---
+ABSTRACT
+--- P83 [Normal] ---
+The project “CampusLife – KRCT: A Unified Hub for Student Resources and Community” presents a centralized mobile application designed to simplify academic resource sharing, campus communication, and daily student activities at K. Ramakrishnan College of Technology (KRCT). The application integrates study materials, campus event updates, a student marketplace, and lost-and-found services into a single platform. It is developed using React, TypeScript, and Tailwind CSS to provide a user-friendly interface. Supabase manages backend services and authentication, while PostgreSQL stores student details and application data. In-app messaging enables communication between students regarding marketplace items and lost-and-found posts. The admin dashboard helps manage student details, events, listings, and reports. College register number-based registration supports a college-focused community. An AI-powered chatbot helps students find relevant information about study resources, campus events, marketplace listings, and lost-and-found posts. Capacitor supports mobile deployment. Overall, CampusLife aims to improve student communication and provide convenient access to essential college services through a single digital platform.
+--- P84 [Normal] ---
+Keywords: CampusLife, Student Resources, Mobile Application, Campus Events, Student Marketplace, Lost and Found, AI Chatbot, React, Supabase, PostgreSQL, Capacitor.
+--- P85 [Normal] ---
+
+--- P86 [Heading 1] ---
+ACKNOWLEDGEMENT
+--- P87 [Body Text] ---
+
+--- P88 [Normal] ---
+We thank our Dr. N. Vasudevan, Principal, for his valuable suggestions and support during the course of our research work.
+--- P89 [Normal] ---
+We thank Mr. R. Rajavarman, Head of the Department, Assistant Professor (Sr. Grade), Department of Computer Science and Engineering, for his valuable suggestions and support during the course of our research work.
+--- P90 [Normal] ---
+We wish to record our deep sense of gratitude and profound thanks to our project guide Mrs. R. Sathya, Assistant Professor, Department of Computer Science and Engineering for her keen interest, inspiring guidance, constant encouragement with our work during all stages, to bring this thesis into fruition.
+--- P91 [Normal] ---
+We are extremely indebted to our project coordinator Mrs. R. Sathya Assistant Professor, Department of Computer Science and Engineering, for her valuable suggestions and support during the course of our research work.
+--- P92 [Normal] ---
+We also thank the faculty and non-teaching staff members of the Department of Computer Science and Engineering, K Ramakrishnan College of Technology (Autonomous), Trichy, for their valuable support throughout the course of our research work.
+--- P93 [Normal] ---
+Finally, we thank our parents, friends and our well wishers for their support.
+--- P94 [Body Text] ---
+
+--- P95 [Heading 1] ---
+Signature
+--- P96 [Body Text] ---
+
+--- P97 [Body Text] ---
+
+--- P98 [Body Text] ---
+
+--- P99 [Body Text] ---
+
+--- P100 [Body Text] ---
+
+--- P101 [Body Text] ---
+
+--- P102 [Body Text] ---
+
+--- P103 [Body Text] ---
+
+--- P104 [Body Text] ---
+
+--- P105 [Body Text] ---
+
+--- P106 [Heading 1] ---
+TABLE OF CONTENTS
+--- P107 [Body Text] ---
+
+--- P108 [Body Text] ---
+
+--- P109 [Body Text] ---
+
+--- P110 [Body Text] ---
+
+--- P111 [Table Paragraph] ---
+
+--- P112 [toc 3] ---
+
+--- P113 [Heading 1] ---
+LIST OF TABLES
+--- P114 [Body Text] ---
+
+--- P115 [Body Text] ---
+
+--- P116 [Body Text] ---
+
+--- P117 [Table Paragraph] ---
+
+--- P118 [Body Text] ---
+
+--- P119 [Body Text] ---
+
+--- P120 [Heading 1] ---
+LIST OF FIGURES
+--- P121 [Body Text] ---
+
+--- P122 [Body Text] ---
+
+--- P123 [Body Text] ---
+
+--- P124 [Table Paragraph] ---
+
+--- P125 [Body Text] ---
+
+--- P126 [Body Text] ---
+
+--- P127 [Heading 1] ---
+LIST OF ABBREVIATIONS
+--- P128 [Body Text] ---
+
+--- P129 [Body Text] ---
+
+--- P130 [Heading 2] ---
+ABBREVIATION	FULL FORM
+--- P131 [Body Text] ---
+
+--- P132 [Body Text] ---
+AI	Artificial Intelligence
+--- P133 [Body Text] ---
+API	Application Programming Interface
+--- P134 [Body Text] ---
+CURD	Create, Read, Update, Delete
+--- P135 [Body Text] ---
+CSS	Cascading Style Sheets
+--- P136 [Body Text] ---
+DBMS	Database Management System
+--- P137 [Body Text] ---
+HTML	HyperText Markup Language
+--- P138 [Body Text] ---
+IDE	Integrated Development Environment
+--- P139 [Body Text] ---
+JS	JavaScript
+--- P140 [Body Text] ---
+KRCT	K. Ramakrishnan College of Technology
+--- P141 [Body Text] ---
+npm	Node Package Manager
+--- P142 [Body Text] ---
+RDBMS	Relational Database Management System
+--- P143 [Body Text] ---
+SQL	Structured Query Language
+--- P144 [Body Text] ---
+TS	TypeScript
+--- P145 [Body Text] ---
+UI	User Interface
+--- P146 [Body Text] ---
+URL	Uniform Resource Locator
+--- P147 [Body Text] ---
+
+--- P148 [Heading 1] ---
+
+--- P149 [Heading 1] ---
+CHAPTER 1 INTRODUCTION
+--- P150 [List Paragraph] ---
+BACKGROUND
+--- P151 [Body Text] ---
+The growing use of digital technology in education has made it important to provide students with easy access to academic resources and campus information. Students often use different platforms to share study materials, receive event updates, buy and sell items, and report lost belongings. Managing these activities separately can make information difficult to access.
+--- P152 [Body Text] ---
+CampusLife – KRCT: A Unified Hub for Student Resources and Community is designed to address these challenges by providing a centralized mobile application for students of K. Ramakrishnan College of Technology (KRCT). The application brings study resources, campus events, student marketplace, and lost-and-found services together on a single platform, improving information sharing and communication within the college community.
+--- P153 [Body Text] ---
+
+--- P154 [Heading 1] ---
+SYSTEM OVERVIEW
+--- P155 [Body Text] ---
+
+--- P156 [Body Text] ---
+The CampusLife-KRCT is a mobile application developed to provide students of
+--- P157 [Body Text] ---
+K. Ramakrishnan College of Technology (KRCT) with a centralized platform for academic resources and campus activities. The system includes study material sharing, campus event updates, a student marketplace, and lost-and-found services. It allows students to communicate through in-app messaging for marketplace and lost-and-found posts. A reporting feature helps students report inappropriate content or misinformation for administrative review.The application also includes an admin dashboard to manage student details, events, marketplace listings, lost-and-found records, and submitted reports. Students can register using their college register numbers, helping maintain a college-focused community. An AI-powered chatbot assists students in finding relevant information within the application. React, TypeScript, and Tailwind CSS are used to develop the frontend, while Supabase provides backend services and PostgreSQL manages application data. Capacitor supports mobile deployment, making CampusLife a convenient platform for improving student communication and campus activities.
+--- P158 [Body Text] ---
+
+--- P159 [Body Text] ---
+
+--- P160 [Heading 1] ---
+
+--- P161 [Heading 1] ---
+STUDY RESOURCES AND CAMPUS EVENTS
+--- P162 [Body Text] ---
+
+--- P163 [Body Text] ---
+The study resuorces and campus events module allows students to access and share study materials through a common platform. Students can find useful academic resources in one place, reducing the difficulty of searching across different platforms. It also provides information about upcoming college events and campus activities, helping students stay informed about important programs and announcements. This module improves resource sharing and keeps students updated on college activities.
+--- P164 [Body Text] ---
+
+--- P165 [Heading 1] ---
+STUDENT MARKETPLACE & LOST-AND-FOUND
+--- P166 [Body Text] ---
+
+--- P167 [Body Text] ---
+The student marketplace and lost and found module provides a platform for students to buy and sell items within the college community. Students can post details about items they want to sell and view listings shared by others. The lost-and-found feature allows students to report lost belongings and post information about items they have found. In-app messaging enables students to communicate directly about marketplace items and lost-and-found posts, making it easier to exchange information and coordinate the return of belongings.
+--- P168 [Body Text] ---
+
+--- P169 [Heading 1] ---
+ADMINISTRATION & STUDENT SUPPORT
+--- P170 [Body Text] ---
+
+--- P171 [Body Text] ---
+The administration and student support module helps administrators manage the application through an admin dashboard. Administrators can view and manage student details, campus events, marketplace listings, lost-and-found records, and reports submitted by students. The reporting feature helps identify inappropriate content or misinformation so that administrators can review it and take suitable action. Students can register using their college register numbers to support a college-focused community. Additionally, an AI-powered chatbot helps students find relevant information about study materials, campus events, marketplace listings, and lost-and-found posts, making information access easier and more convenient.
+--- P172 [Body Text] ---
+
+--- P173 [Body Text] ---
+
+--- P174 [Body Text] ---
+
+--- P175 [Heading 1] ---
+
+--- P176 [Heading 1] ---
+OBJECTIVE
+--- P177 [Body Text] ---
+
+--- P178 [Body Text] ---
+The main objective of CampusLife – KRCT: A Unified Hub for Student Resources and Community is to develop a centralized mobile application for students of
+--- P179 [Body Text] ---
+K. Ramakrishnan College of Technology (KRCT). It brings study materials, campus event updates, a student marketplace, and lost-and-found services together on a single platform. This helps students access important college information and share resources more conveniently.
+--- P180 [Body Text] ---
+The project also aims to improve student interaction and simplify campus management through digital features. In-app messaging supports communication between students, while the admin dashboard helps administrators manage student details, events, listings, and reports. The AI-powered chatbot helps students find relevant information quickly, and the reporting feature supports the review of inappropriate content and misinformation.
+--- P181 [Body Text] ---
+
+--- P182 [Heading 1] ---
+SCOPE OF THE PROJECT
+--- P183 [Body Text] ---
+
+--- P184 [Body Text] ---
+The scope of CampusLife – KRCT: A Unified Hub for Student Resources and Community includes providing a centralized mobile application for managing academic resources, campus events, student marketplace activities, and lost-and-found services. The application helps students share information, communicate with one another, and access college-related services in one place. It also provides an admin dashboard to manage student details, events, listings, and reports efficiently.
+--- P185 [Body Text] ---
+
+--- P186 [Heading 1] ---
+DATA MANAGEMENT
+--- P187 [Body Text] ---
+
+--- P188 [Body Text] ---
+The system stores and manages student details, study materials, campus events, marketplace listings, lost-and-found records, and reports using a centralized database. This allows information to be organized, retrieved, and updated easily. It also supports efficient communication and information sharing among students.
+--- P189 [Body Text] ---
+
+--- P190 [Heading 1] ---
+
+--- P191 [Heading 1] ---
+SECURITY & ACCESS CONTROL
+--- P192 [Body Text] ---
+
+--- P193 [Body Text] ---
+The application uses college register numbers for student registration to maintain a college-focused community. The admin dashboard allows administrators to review reported content and manage application activities. The reporting feature helps identify inappropriate content and misinformation, supporting a safer environment for students.
+--- P194 [Body Text] ---
+
+--- P195 [Heading 1] ---
+4.3 SYSTEM SCALABILITY
+--- P196 [Body Text] ---
+
+--- P197 [Body Text] ---
+The systemis designed to support the future growth of student activities and information. Additional features can be introduced to improve student communication, resource sharing, and campus services. The AI-powered chatbot also helps students find relevant information about study materials, events, marketplace listings, and lost-and-found posts more conveniently.
+--- P198 [Body Text] ---
+
+--- P199 [Heading 1] ---
+NEED FOR THE SYSTEM
+--- P200 [Body Text] ---
+
+--- P201 [Body Text] ---
+Students often depend on different platforms and communication channels to access study materials, receive campus event updates, buy and sell items, and report lost belongings. Managing these activities separately makes it difficult to find information quickly and communicate effectively. Therefore, a centralized platform is needed to bring all these student-related activities together in one application.
+--- P202 [Body Text] ---
+CampusLife-KRCT addresses this need by providing a single platform for academic resource sharing, campus communication, marketplace activities, and lost-and-found services. The admin dashboard helps administrators manage student information and review reported content, while the AI-powered chatbot helps students find relevant information easily. Thus, the system improves information accessibility, student interaction, and the overall campus experience.
+--- P203 [Body Text] ---
+
+--- P204 [Heading 1] ---
+
+--- P205 [Heading 1] ---
+CHAPTER 2 LITERATURE SURVEY
+--- P206 [Body Text] ---
+
+--- P207 [Heading 3] ---
+TITLE: An Android Application for Campus Information System AUTHOR: Reetu Malhotra, Deepak Kumar, and Dev Priya Gupta (2020)
+--- P208 [Body Text] ---
+The research paper titled “An Android Application for Campus Information System” focuses on developing a mobile application to improve information sharing and communication within an educational institution. Traditional methods of sharing campus information often depend on notice boards, printed announcements, and separate communication platforms. These methods can make it difficult for students to receive timely updates about academic activities and campus events. The study highlights how mobile applications can provide a convenient way to access important information through smartphones. A campus information system helps bring different types of educational information together in one place. Students can use such applications to stay updated about college activities and access relevant information without depending entirely on manual communication. A centralized platform can also improve the availability of information and reduce the difficulties involved in searching through multiple sources. Mobile-based systems provide a user-friendly approach to campus information management and support communication among members of an educational institution.
+--- P209 [Body Text] ---
+This study is relevant to the CampusLife-KRCT project because both focus on making campus information easily accessible to students through a digital platform. CampusLife-KRCT extends this concept by combining study material sharing, campus event updates, student marketplace activities, and lost-and-found services in a single mobile application. It also includes in-app messaging to support communication between students and an AI-powered chatbot to help them find relevant information. In addition, the admin dashboard allows administrators to manage student activities and review reported content. Thus, CampusLife-KRCT applies the concept of centralized campus information access to a wider range of student needs.
+--- P210 [Body Text] ---
+
+--- P211 [Heading 3] ---
+
+--- P212 [Heading 3] ---
+TITLE: Methods and Frequency of Sharing of Learning Resources by Medical Students
+--- P213 [Normal] ---
+AUTHOR: Terry Judd and Kristine Elliott (2017)
+--- P214 [Body Text] ---
+
+--- P215 [Body Text] ---
+The research paper titled “Methods and Frequency of Sharing of Learning Resources by Medical Students” examines how students share academic materials with their classmates and the different technologies they use for this purpose. The study was conducted to understand how frequently students exchange learning resources, what types of materials they share, and which platforms support these activities. The researchers collected responses from 338 students in the first three years of a four-year postgraduate medical curriculum. The study highlights the importance of resource sharing in students’ learning activities. The findings indicate that students shared learning resources with their classmates two or more times per week on average. The resources included study notes, textbooks, curriculum-related materials, and other learning content. Students used different methods to share these resources, including email, social media platforms, and cloud-based file-sharing services. The study also found that students frequently shared materials that were not available through their university's learning management system.
+--- P216 [Body Text] ---
+This shows that students often depend on peer communication and external digital platforms to obtain useful academic resources.This study is relevant to the CampusLife-KRCT project because one of its main features is the sharing of study materials through a centralized mobile application. Instead of relying on separate messaging applications or other platforms, students can use CampusLife-KRCT to access academic resources in one place. The application also combines study material sharing with campus event updates, marketplace activities, and lost-and-found services. By bringing these features together, CampusLife-KRCT aims to make student information and resources easier to access and share within the college community.
+--- P217 [Body Text] ---
+
+--- P218 [Heading 3] ---
+
+--- P219 [Heading 3] ---
+TITLE: Mobile Campus Information Sharing Application AUTHOR: S. A. Shamsuddin et al. – 2018
+--- P220 [Body Text] ---
+The research paper titled “The Development of a Mobile Campus Information Sharing Android Application” focuses on improving information sharing among university students through mobile technology. Traditional methods, such as notice boards and printed announcements, may make it difficult for students to receive important campus updates at the right time. To overcome these challenges, the researchers developed an Android application that allows students to access campus information through their mobile devices. The main aim of the study was to make information sharing easier and more convenient within educational institutions.
+--- P221 [Body Text] ---
+The application was developed using MIT App Inventor and uses a server to store information. It provides different sections for users to access and manage campus information. The system organizes information so that users can find relevant updates more easily. The study highlights the usefulness of mobile applications in improving communication and information accessibility in educational institutions.
+--- P222 [Body Text] ---
+The research also demonstrates the importance of organizing campus information in a centralized system. When information is shared through different communication channels, students may find it difficult to locate the updates they need. A mobile application can help address this problem by making campus-related information available in one place. CampusLife – KRCT: A Unified Hub for Student Resources and Community extends this concept by providing multiple student services through a single mobile application. It includes study material sharing, campus event updates, a student marketplace, and lost-and-found services. In-app messaging allows students to communicate about marketplace listings and lost-and-found posts. The application also provides an admin dashboard to manage student details, events, listings, and reports. Additionally, an AI-powered chatbot helps students find relevant information quickly, while the reporting feature allows inappropriate content and misinformation to be submitted for administrative review. Thus, CampusLife-KRCT aims to provide a centralized and convenient platform for academic resources, campus communication, and everyday student needs.
+--- P223 [Body Text] ---
+
+--- P224 [Heading 3] ---
+
+--- P225 [Heading 3] ---
+TITLE: An Effective Lost and Found System in University Campus AUTHOR: Siok Yee Tan and Cia Rui Chong – 2023
+--- P226 [Body Text] ---
+The research paper titled “An Effective Lost and Found System in University Campus” focuses on improving the process of finding lost belongings within a university. Students frequently lose personal items such as identity cards, books, wallets, and electronic devices on campus. Traditional methods of reporting lost items, including informing college staff or sharing information through notice boards, may not help students find their belongings quickly. To address this problem, the researchers proposed a web-based and mobile-based lost-and-found system for the National University of Malaysia (UKM). The main objective was to help students, staff, and visitors report and search for lost items more efficiently.
+--- P227 [Body Text] ---
+The proposed system provides a login facility and a lost-and-found listing page where users can submit information about lost belongings or items they have found. By maintaining these details in a centralized platform, users can search for relevant information instead of depending entirely on separate communication channels. This approach makes the reporting process more organized and improves the accessibility of information about lost and found items within the university campus.
+--- P228 [Body Text] ---
+When details about lost items are scattered across different platforms, users may find it difficult to identify matching reports and contact the people who found their belongings. However, a lost-and-found system alone does not cover other important student needs, such as academic resource sharing, campus event updates, and buying or selling items.
+--- P229 [Body Text] ---
+CampusLife–KRCT: A Unified Hub for Student Resources and Community incorporates a similar lost-and-found facility while extending its services to other campus activities. Students can post information about lost or found belongings and communicate through in-app messaging. Furthermore, an admin dashboard allows administrators to manage lost-and-found records and review reports submitted by students. An AI-powered chatbot helps users find relevant information within the application. Thus, CampusLife-KRCT combines lost-and-found management with multiple student services in a single platform.
+--- P230 [Body Text] ---
+
+--- P231 [Heading 3] ---
+
+--- P232 [Heading 3] ---
+TITLE: Role of AI Chatbots in Education: Systematic Literature Review AUTHOR: L. Labadze, M. Grigolia, and L. Machaidze – 2023
+--- P233 [Body Text] ---
+The research paper titled “Role of AI Chatbots in Education: Systematic Literature Review” was published in 2023. The study examines how artificial intelligence chatbots can support students and educators in educational institutions. Students often need help finding learning resources, understanding academic topics, and obtaining answers to their questions. Traditional methods may require students to search through multiple websites or wait for assistance from teachers. To address these challenges, the researchers reviewed existing studies to understand the benefits, challenges, and limitations of using AI chatbots in education.
+--- P234 [Body Text] ---
+The researchers reviewed 67 relevant studies to investigate the role of AI chatbots in educational settings. The findings indicate that chatbots can provide immediate responses to students' questions, explain concepts, and suggest additional learning resources. These capabilities make chatbots useful for improving information accessibility and providing students with convenient support. However, the effectiveness of a chatbot depends on the quality of its responses, the information available to it, and how appropriately it is implemented.
+--- P235 [Body Text] ---
+The study also discusses challenges associated with AI chatbots, including the possibility of incorrect responses, limitations in understanding users' questions, and concerns about the reliability of the information provided. Therefore, chatbots should be designed carefully and used as supporting tools rather than being treated as completely reliable sources of information.
+--- P236 [Body Text] ---
+CampusLife – KRCT: A Unified Hub for Student Resources and Community applies this concept by integrating an AI-powered chatbot into a centralized student application. The chatbot helps students find relevant information about study materials, campus events, marketplace listings, and lost-and-found posts. Instead of searching through each section separately, students can use the chatbot to locate information more conveniently. Thus, CampusLife-KRCT uses AI chatbot technology to make campus information easier to access and improve the overall student experience.
+--- P237 [Body Text] ---
+
+--- P238 [Heading 3] ---
+
+--- P239 [Heading 3] ---
+TITLE: A Systematic Review of Research on Online Learner Collaboration AUTHOR: Beth Oyarzun and Florence Martin – 2023
+--- P240 [Body Text] ---
+The research paper titled “A Systematic Review of Research on Online Learner Collaboration from 2012–21: Collaboration Technologies, Design, Facilitation, and Outcomes” examines how digital technologies support collaboration among students in online learning environments. Students often need to discuss academic topics, share learning materials, work together on assignments, and exchange ideas with their classmates. Traditional communication methods may not always provide convenient ways to support these activities. Therefore, the researchers reviewed existing studies to understand how online collaboration technologies are used in education and how they contribute to student learning.
+--- P241 [Body Text] ---
+The researchers examined 63 research articles published over a ten-year period. The study identified several technologies used to support online collaboration, including learning management systems, discussion boards, online writing tools, and real-time communication tools. Group discussions and collaborative projects were among the commonly used learning activities. The findings highlighted that online collaboration can support knowledge development, improve communication and teamwork skills, and help students build relationships with their peers. However, challenges such as technical difficulties, time limitations, and anxiety can affect students' participation in online activities.
+--- P242 [Body Text] ---
+CampusLife – KRCT: A Unified Hub for Student Resources and Community follows a similar approach by providing a common platform for students to access academic resources and participate in campus activities. It includes study material sharing, campus event updates, a student marketplace, and lost-and-found services. In-app messaging enables students to communicate about marketplace listings and lost-and-found posts. The admin dashboard supports the management of student details, events, listings, and reports. Additionally, an AI-powered chatbot helps students find relevant information within the application. Thus, CampusLife-KRCT combines information sharing and student communication with multiple campus services in one platform.
+--- P243 [Body Text] ---
+
+--- P244 [Heading 3] ---
+
+--- P245 [Heading 3] ---
+TITLE: CampusMart – Student Marketplace, Uday Thorat, Parth Bhende AUTHOR: Krushnal Patil, and Udayan Mudgade – 2026
+--- P246 [Body Text] ---
+The research paper titled “CampusMart – Student Marketplace” focuses on developing a digital marketplace specifically for university students. Students often need textbooks, laboratory equipment, electronic devices, and other essential items during their studies. However, finding affordable items or selling used products can be difficult when students depend on general online marketplaces or informal communication channels. To address these challenges, the researchers proposed a campus-focused digital marketplace that allows students to buy, sell, and exchange items within their university community.
+--- P247 [Body Text] ---
+The proposed platform focuses on providing a student-oriented environment with secure authentication and organized item listings. It also includes a lost-and-found section and an integrated chat system to support communication between users. These features help students find items, communicate with other students, and exchange belongings more conveniently. The platform also promotes the reuse of items, allowing students to pass on products they no longer need to others who may find them useful. This approach can help reduce unnecessary purchases and encourage resource sharing within the campus community.
+--- P248 [Body Text] ---
+The research highlights the importance of creating a centralized marketplace designed around students' needs. General-purpose e-commerce platforms may not provide features specifically intended for a college community. A campus-focused platform can make student transactions and communication more relevant to the academic environment.
+--- P249 [Body Text] ---
+CampusLife – KRCT: A Unified Hub for Student Resources and Community incorporates similar marketplace features while extending its functionality to other student needs. In-app messaging supports communication regarding marketplace listings and lost-and-found posts. The admin dashboard enables administrators to manage listings and review reports, while the AI-powered chatbot helps students locate relevant information. Thus, CampusLife-KRCT aims to bring academic resources, student transactions, and campus communication together in one application.
+--- P250 [Body Text] ---
+
+--- P251 [Heading 3] ---
+
+--- P252 [Heading 3] ---
+TITLE: Research on the Development of a Campus Comprehensive Service App for College Students
+--- P253 [Normal] ---
+AUTHOR: Han Wanh – 2024
+--- P254 [Body Text] ---
+
+--- P255 [Body Text] ---
+The research paper titled “Research on the Development of a Campus Comprehensive Service App for College Students” was published in 2024. The study focuses on developing a comprehensive mobile application to meet the different needs of college students. Students often use separate platforms to access campus information, participate in events, communicate with others, and buy or sell used items. Managing these activities across different platforms can make information difficult to access and reduce convenience. To address these challenges, the researchers proposed a campus application that combines multiple services into a single platform.
+--- P256 [Body Text] ---
+The study highlights the importance of developing a centralized platform that supports different student activities. Instead of depending on separate applications for each service, students can access several useful features from one place. The integration of campus information, event management, second-hand transactions, and lost-and-found services makes the platform more useful for everyday student needs. However, an integrated campus application can be further enhanced by including academic resource sharing, improved communication features, and AI-based assistance to help students locate information quickly.
+--- P257 [Body Text] ---
+CampusLife – KRCT: A Unified Hub for Student Resources and Community follows a similar approach by bringing several student services together in one application. It provides study material sharing, campus event updates, a student marketplace, and lost-and-found services. Students can communicate through in-app messaging, while the admin dashboard allows administrators to manage student details, events, listings, and submitted reports. The application also includes register-number-based student registration and an AI-powered chatbot that helps students find relevant information. Thus, CampusLife-KRCT aims to provide a convenient and centralized platform for academic resources, campus communication, and everyday student activities.
+--- P258 [Body Text] ---
+
+--- P259 [Heading 3] ---
+
+--- P260 [Heading 3] ---
+TITLE: A Review of University Chatbots for Student Support: FAQs and Beyond
+--- P261 [Normal] ---
+AUTHOR: Kevin Peyton, Saritha Unnikrishnan, and Brian Mulligan – 2025
+--- P262 [Body Text] ---
+
+--- P263 [Body Text] ---
+The research paper titled “A Review of University Chatbots for Student Support: FAQs and Beyond” was published in 2025. The study examines how chatbots can help universities provide information and support to students. Students often need answers to questions related to university services, academic administration, campus facilities, and other institutional activities. Finding this information may require searching multiple websites or contacting different departments. To address these challenges, the researchers reviewed chatbot implementations in universities to understand how these systems support students and improve access to information.
+--- P264 [Body Text] ---
+The researchers compared eight university chatbot implementations and examined the technologies used to develop them. The study discusses the development of natural language processing and generative artificial intelligence techniques for answering student questions. Chatbots can provide information about university services, answer frequently asked questions, and help students access relevant information without always requiring assistance from staff. The research also identifies challenges, including the difficulty of collecting and organizing reliable information for chatbot systems. These findings highlight the importance of using suitable technologies and trustworthy information when developing chatbots for educational institutions.
+--- P265 [Body Text] ---
+CampusLife – KRCT: A Unified Hub for Student Resources and Community applies this concept by integrating an AI-powered chatbot into its mobile application. The chatbot helps students find relevant information about study materials, campus events, marketplace listings, and lost-and-found posts. Instead of manually searching through different sections, students can use the chatbot to locate information more conveniently. The application also includes in-app messaging, content reporting, and an admin dashboard to support communication and information management. Thus, CampusLife-KRCT uses chatbot technology to improve information accessibility and provide students with a convenient way to access campus-related services.
+--- P266 [Body Text] ---
+
+--- P267 [Heading 3] ---
+
+--- P268 [Heading 3] ---
+TITLE: Campus Core: Comprehensive Framework for Integrated Campus Management Systems
+--- P269 [Normal] ---
+AUTHOR: S. Patbage et al. – 2024
+--- P270 [Body Text] ---
+
+--- P271 [Body Text] ---
+The research paper titled “Campus Core: Comprehensive Framework for Integrated Campus Management Systems” focuses on developing a unified digital platform to improve communication and student engagement within educational institutions. Students often depend on different platforms to access academic resources, receive event updates, participate in discussions, and communicate with faculty members. Managing these activities separately can make information difficult to access and reduce convenience. These features help students and faculty members share information, participate in discussions, and stay updated about important activities. The study also identifies limitations in existing campus platforms, including dependence on specific operating systems, limited real-time communication, and difficulties in providing a consistent user experience.
+--- P272 [Body Text] ---
+CampusLife – KRCT: A Unified Hub for Student Resources and Community follows a similar approach by combining different student services in one mobile application. It provides study material sharing, campus event updates, a student marketplace, and lost-and-found services. In-app messaging allows students to communicate about marketplace listings and lost-and-found posts. The admin dashboard enables administrators to manage student details, events, listings, and submitted reports. Additionally, the AI-powered chatbot helps students find relevant information, while college register-number-based registration supports a college-focused community.
+--- P273 [Body Text] ---
+
+--- P274 [Heading 1] ---
+
+--- P275 [Heading 1] ---
+CHAPTER 3 EXISTING SYSTEM
+--- P276 [Body Text] ---
+The existing system for campus information and student services mainly depends on separate platforms and traditional methods for managing student activities. Students use different websites, social media groups, college notice boards, and other applications to access study materials, receive information about campus events, buy and sell items, and report lost belongings. Since these services are handled separately, students need to search through multiple platforms to find the information they require. This makes information sharing less convenient and can result in students missing important updates.
+--- P277 [Body Text] ---
+In the existing system, study materials are usually shared through class groups, social media platforms, websites, or by directly exchanging files with classmates. Students may find it difficult to locate specific notes or learning resources when information is spread across different groups and platforms. Similarly, information about college events, workshops, seminars, and other campus activities is communicated through notice boards, college websites, or separate messaging groups. Students who do not regularly check these sources may miss important announcements and updates.
+--- P278 [Body Text] ---
+Buying and selling items is another activity that is generally managed through external online marketplaces or social media groups. Students who want to sell used books, electronic devices, and other items must share their listings separately and communicate with interested buyers through different platforms. This process may not be limited to members of the same college, making it difficult to maintain a student-focused marketplace. In the same way, lost-and-found activities are often managed through notice boards, class groups, or by contacting college staff. Finding information about lost belongings and connecting with the person who found an item can take time.
+--- P279 [Body Text] ---
+Communication between students is mainly carried out through messaging applications, email, social media, or direct contact. These methods are useful for general communication, but campus-related information can become scattered across different
+--- P280 [Body Text] ---
+
+--- P281 [Body Text] ---
+conversations. The existing system also lacks a single place where students can report inappropriate content or misinformation and where administrators can review such reports alongside other campus activities. As a result, managing student information and campus services can become difficult and less organized.
+--- P282 [Body Text] ---
+In conclusion, the existing system has limitations such as scattered information, dependence on multiple platforms, difficulties in finding study materials, separate management of campus events, and inconvenience in handling marketplace and lost-and-found activities. Students may also miss important updates because information is not available in one centralized location. These limitations highlight the need for a unified platform that brings academic resources, campus communication, student marketplace activities, and lost-and-found services together. CampusLife-KRCT aims to address these challenges by providing a centralized application with student messaging, an administrative dashboard, content reporting, and an AI-powered chatbot to make campus information easier to access and manage.
+--- P283 [Body Text] ---
+
+--- P284 [Body Text] ---
+
+--- P285 [Body Text] ---
+
+--- P286 [Normal] ---
+Figure 3.1 Existing System
+--- P287 [Normal] ---
+
+--- P288 [Heading 1] ---
+
+--- P289 [Heading 1] ---
+CHAPTER 4 PROBLEMS IDENTIFIED
+--- P290 [Body Text] ---
+The analysis of the existing system for campus information and student services reveals several problems that affect the way students access information, share resources, and communicate with one another. Students depend on different websites, social media groups, college notice boards, and messaging applications to manage their academic and campus-related activities. Since these services are not available in one centralized platform, students may face difficulties in finding the required information.
+--- P291 [Body Text] ---
+One of the major problems in the existing system is the scattered availability of study materials. Students usually receive notes, question papers, and other learning resources through class groups, websites, or by directly sharing files with classmates. When materials are shared across different platforms, students may find it difficult to locate specific resources when they need them. Important academic information may also get lost among other messages, making the process of accessing study materials time-consuming and inconvenient.
+--- P292 [Body Text] ---
+The existing system also creates difficulties in accessing campus event information. Details about workshops, seminars, cultural programs, technical events, and other college activities may be shared through notice boards, college websites, or separate messaging groups. Students need to check different sources regularly to stay updated. If they miss an announcement or do not have access to a particular group, they may not receive important information on time. The absence of a centralized source for campus events makes information sharing less organized. The existing system also creates difficulties in managing student marketplace activities. Students who want to buy or sell used books, electronic devices, and other useful items often depend on general online marketplaces or social media groups. These platforms may include people outside the college community, and students may find it difficult to identify suitable buyers or sellers within their college. Therefore, a college-focused marketplace is needed to make it easier for students to discover listings and communicate with interested students.
+--- P293 [Body Text] ---
+
+--- P294 [Body Text] ---
+Managing lost-and-found information is another important problem. When students lose their identity cards, books, keys, or other belongings, they may report the details through class groups, notice boards, or college staff. Students who find lost items may share the information through different channels. Since these details are spread across several sources, it can be difficult to connect the person who lost an item with the person who found it. This can delay the recovery of belongings and make the process less efficient.
+--- P295 [Body Text] ---
+Communication and content management also present challenges in the existing system. Students generally use different messaging applications, email, or social media to communicate about campus-related activities. As a result, conversations and important information may become scattered across multiple platforms. There may also be no dedicated method for reporting inappropriate content or misinformation for review by the application administrator. Without a proper reporting and review process, managing the quality of shared information becomes difficult.
+--- P296 [Body Text] ---
+Another problem is the lack of centralized administration for student-related activities. Student information, event details, marketplace listings, lost-and-found posts, and complaints may need to be handled separately. This increases the effort required to monitor and manage campus activities. A centralized administrative dashboard can help organize these activities and make management more convenient.
+--- P297 [Body Text] ---
+In conclusion, the existing system has several problems, including scattered academic resources, missed campus event updates, difficulties in buying and selling items, inefficient lost-and-found communication, limited content reporting, and the lack of centralized administration. These problems affect information accessibility and make campus-related activities less convenient for students. CampusLife-KRCT aims to address these issues by bringing study resources, campus events, a student marketplace, lost-and-found services, in-app messaging, content reporting, an administrative dashboard, and an AI-powered chatbot together in a single platform.
+--- P298 [Body Text] ---
+
+--- P299 [Heading 1] ---
+
+--- P300 [Heading 1] ---
+CHAPTER 5 PROPOSED SYSTEM
+--- P301 [Body Text] ---
+To overcome the limitations of the existing system, CampusLife – KRCT: A Unified Hub for Student Resources and Community is proposed as a centralized mobile application for students of K. Ramakrishnan College of Technology (KRCT). The system brings academic resources, campus event updates, a student marketplace, and lost-and-found services together in a single platform. It aims to improve information sharing, simplify student communication, and make campus-related activities more convenient and organized.
+--- P302 [Body Text] ---
+The proposed system provides a common platform for sharing and accessing study materials. Students can find useful academic resources in one place instead of searching through different websites and messaging groups. The application also provides information about college events, workshops, seminars, and other campus activities. This helps students stay informed about important announcements and access academic and event-related information more easily.
+--- P303 [Body Text] ---
+One of the important features of CampusLife-KRCT is the student marketplace, which is available within the application itself. Students can post items they want to sell and view items listed by other students. This provides a college-focused space for buying and selling useful items such as books and other student necessities. The application also includes a lost-and-found feature where students can share information about lost or found belongings. In-app messaging allows students to communicate directly about marketplace listings and lost-and-found posts, making it easier to exchange information.
+--- P304 [Body Text] ---
+The proposed system also includes student registration using college register numbers to support a college-focused community. An in-app reporting feature allows students to report inappropriate content or misinformation. The system also provides an admin dashboard through which administrators can view and manage student details, campus events, marketplace listings, lost-and-found records, and submitted reports. This centralized management approach helps keep application activities organized.
+--- P305 [Body Text] ---
+
+--- P306 [Body Text] ---
+Another important feature of CampusLife-KRCT is the AI-powered chatbot, which helps students find relevant information within the application. Students can use it to get assistance in locating study resources, campus events, marketplace listings, and lost-and-found posts. This reduces the need to search manually through different sections of the application and makes information access more convenient.
+--- P307 [Body Text] ---
+The application is developed using React, TypeScript, and Tailwind CSS for the frontend. React is used to build the user interface, TypeScript supports structured and reliable code, and Tailwind CSS helps design the application layout. Supabase provides backend services, while PostgreSQL is used to store and manage student details, study resources, event information, marketplace listings, lost-and-found records, and reports. Capacitor supports mobile deployment, allowing the application to be made available on mobile devices.
+--- P308 [Body Text] ---
+In conclusion, the proposed CampusLife-KRCT system provides a unified solution for the major campus-related activities of students. By integrating study resources, campus events, a student marketplace, lost-and-found services, in-app messaging, content reporting, administrative management, and an AI-powered chatbot, the system addresses the limitations of the existing approach. It aims to make information easier to access, improve communication among students, and support more efficient management of campus activities.
+--- P309 [Body Text] ---
+
+--- P310 [Body Text] ---
+
+--- P311 [Body Text] ---
+
+--- P312 [Body Text] ---
+
+--- P313 [Body Text] ---
+
+--- P314 [Body Text] ---
+
+--- P315 [Body Text] ---
+
+--- P316 [Body Text] ---
+
+--- P317 [Body Text] ---
+
+--- P318 [Body Text] ---
+
+--- P319 [Body Text] ---
+
+--- P320 [Normal] ---
+
+--- P321 [Normal] ---
+
+--- P322 [Normal] ---
+                                      Figure 5.1 Proposed System Architecture
+--- P323 [Heading 1] ---
+
+--- P324 [Heading 1] ---
+
+--- P325 [Heading 1] ---
+
+--- P326 [Heading 1] ---
+
+--- P327 [Heading 1] ---
+CHAPTER 6 SYSTEM REQUIREMENTS
+--- P328 [Heading 2] ---
+HARDWARE REQUIREMENTS
+--- P329 [Body Text] ---
+
+--- P330 [Body Text] ---
+Hardware requirements refer to the physical components needed to develop, test, and run the CampusLife-KRCT application. Since CampusLife-KRCT is a mobile application, a computer with a standard configuration is sufficient for development and testing.
+--- P331 [Body Text] ---
+A computer system with a minimum of an Intel i3 processor or equivalent is required to develop and run the application. At least 4 GB of RAM is recommended to support the code editor, web browser, and development tools. A minimum of 256 GB of storage is recommended for storing application files, project resources, and development tools. An SSD is preferred for faster file access and improved system performance.
+--- P332 [Body Text] ---
+Standard input devices such as a keyboard and mouse are required for coding and system interaction. A monitor is needed to view the application interface and development environment. A stable internet connection is required to access Supabase services and retrieve application data. An Android mobile device can also be used to test the application after mobile deployment using Capacitor.
+--- P333 [Body Text] ---
+The hardware configuration may be increased based on the size of the application, the number of users, and future requirements. These hardware components provide a suitable environment for developing, testing, and running CampusLife-KRCT efficiently.
+--- P334 [Heading 2] ---
+SOFTWARE REQUIREMENTS
+--- P335 [Body Text] ---
+
+--- P336 [Body Text] ---
+Software requirements include the operating system, programming technologies, database services, and development tools needed to build and run the application. Windows, Linux, or macOS can be used for development. Visual Studio Code can be used to write and manage the application code, while a web browser such as Google Chrome is used to run and test the user interface.
+--- P337 [Body Text] ---
+
+--- P338 [Body Text] ---
+
+--- P339 [Body Text] ---
+The frontend is developed using React, TypeScript, and Tailwind CSS. React is used to build the user interface, TypeScript supports structured coding, and Tailwind CSS is used to style the application. Supabase provides backend services, including database connectivity and application support, while PostgreSQL is used to store and manage student details, study resources, campus events, marketplace listings, lost-and-found records, and reports. Capacitor supports deploying the application to mobile devices. These technologies work together to provide a centralized platform for student resources and campus activities.
+--- P340 [Body Text] ---
+Node.js and npm are required to manage project dependencies and run the React development environment. They help install the libraries and packages needed for the application. A compatible web browser is used to test the interface, navigation, registration, login, and other application features. Visual Studio Code provides useful development facilities such as syntax highlighting, code completion, and debugging support.
+--- P341 [Body Text] ---
+Supabase is used to connect the application with backend services and manage application data through PostgreSQL. The database stores information related to students, study materials, events, marketplace items, lost-and-found posts, messages, and submitted reports. Proper database access permissions help ensure that users can access only the information and functions allowed for their role.
+--- P342 [Body Text] ---
+Capacitor is used to support mobile application deployment. It helps package the web application for compatible mobile platforms and allows the application to be tested on mobile devices. Testing the application on both a web browser and a mobile device helps verify that the interface is usable across different screen sizes. Together, these software tools and technologies provide the development and runtime environment required for CampusLife-KRCT.
+--- P343 [Body Text] ---
+
+--- P344 [Heading 1] ---
+
+--- P345 [Heading 1] ---
+CHAPTER 7
+--- P346 [Body Text] ---
+
+--- P347 [Normal] ---
+SYSTEM IMPLEMENTATIONS
+--- P348 [Body Text] ---
+The system implementation phase focuses on developing and integrating all modules of the CampusLife – KRCT : A Unified Hub for Student Resources and Community into a working mobile application. The system follows a modular approach, where each module performs a specific function and works with other modules through a centralized backend and database. The application is developed using React, TypeScript, and Tailwind CSS for the frontend, while Supabase and PostgreSQL are used for backend services and database management. Capacitor is used to support mobile application deployment and testing
+--- P349 [Heading 1] ---
+LIST OF MODULES
+--- P350 [Body Text] ---
+
+--- P351 [Body Text] ---
+The system is divided into the following major modules:
+--- P352 [Body Text] ---
+
+--- P353 [List Paragraph] ---
+Student Registration & Profile Module
+--- P354 [Body Text] ---
+
+--- P355 [List Paragraph] ---
+Study Resources Module
+--- P356 [Body Text] ---
+
+--- P357 [List Paragraph] ---
+Campus Events Module
+--- P358 [Body Text] ---
+
+--- P359 [List Paragraph] ---
+Student Marketplace Module
+--- P360 [Body Text] ---
+
+--- P361 [List Paragraph] ---
+Lost & Found Module
+--- P362 [Body Text] ---
+
+--- P363 [List Paragraph] ---
+Messaging & Reporting Module
+--- P364 [Body Text] ---
+
+--- P365 [List Paragraph] ---
+Admin Management Module
+--- P366 [Body Text] ---
+
+--- P367 [List Paragraph] ---
+AI Chatbot Module
+--- P368 [List Paragraph] ---
+
+--- P369 [Heading 1] ---
+
+--- P370 [Heading 1] ---
+MODULES DESCRIPTION
+--- P371 [Heading 1] ---
+
+--- P372 [Normal] ---
+                                            Table 7.1: Modules Description
+--- P373 [Body Text] ---
+
+--- P374 [Body Text] ---
+
+--- P375 [Heading 1] ---
+STUDENT REGISTRATION & PROFILE MODULE
+--- P376 [Body Text] ---
+
+--- P377 [Body Text] ---
+The Student Registration and Profile Module is responsible for managing student accounts and maintaining basic student information in the CampusLife-KRCT application. Students can register using their college register number and provide the required details to create an account. The registration process helps ensure that the application is primarily used by members of the college community.
+--- P378 [Body Text] ---
+
+--- P379 [Body Text] ---
+
+--- P380 [Body Text] ---
+After registration, students can access their profile and use the different services provided by the application.The module also helps associate student activities such as marketplace posts, lost-and-found posts, and shared resources with the respective users. This provides better organization and helps administrators identify users when managing platform activities.
+--- P381 [Heading 1] ---
+STUDY RESOURCES MODULE
+--- P382 [Body Text] ---
+
+--- P383 [Body Text] ---
+The Study Resources Module provides a centralized platform for sharing and accessing academic materials. Students can upload useful study resources and make them available to other students through the application. Resources can include notes, learning materials, and other academic documents that may help students in their studies. Instead of searching through different class groups, messaging applications, or external websites, students can access resources from a common location. The module makes academic resource sharing more organized and convenient and allows students to benefit from materials shared by other members of the college community
+--- P384 [Heading 1] ---
+CAMPUS EVENTS MODULE
+--- P385 [Body Text] ---
+The Campus Events Module is designed to provide students with information about activities conducted within the college. It can contain details about workshops, seminars, technical events, cultural programs, and other campus activities. Students can view available event information and stay updated about activities that may be relevant to them. By providing event information through a centralized application, the module reduces dependence on separate notice boards, social media groups, or messaging channels. It helps students discover campus activities more easily and encourages greater participation in college events.
+--- P386 [Heading 1] ---
+STUDENT MARKETPLACE MODULE
+--- P387 [Body Text] ---
+
+--- P388 [Body Text] ---
+The Student Marketplace Module provides an in-app platform where students can buy and sell items among members of the college community. A student can create a listing by providing relevant information about the item being offered. Other students can browse the available listings and identify items that may be useful to them.
+--- P389 [Body Text] ---
+
+--- P390 [Body Text] ---
+
+--- P391 [Body Text] ---
+The module is specifically intended for student-to-student transactions rather than depending on general external marketplace platforms. This makes it easier for students to discover items available within their college community. The module also works with the messaging feature, allowing interested students to communicate with the respective seller regarding a listing.
+--- P392 [Heading 1] ---
+LOST & FOUND MODULE
+--- P393 [Body Text] ---
+
+--- P394 [Body Text] ---
+The Lost & Found Module provides an organized method for students to report lost belongings and share information about items that have been found. Students can create a lost or found post with the relevant details of the item. Other students can view these posts and identify whether an item matches something they have lost or found. The module helps bring related information together instead of depending on separate class groups, notice boards, or direct communication. The messaging facility can also be used to allow students to communicate regarding a particular lost-and-found post, making the process of locating and recovering belongings more convenient.
+--- P395 [Heading 1] ---
+MESSAGING & REPORTING MODULE
+--- P396 [Body Text] ---
+
+--- P397 [Body Text] ---
+The Messaging and Reporting Module provides communication and content-monitoring features within the application. The messaging functionality allows students to communicate directly with one another for specific marketplace and lost-and-found interactions. This avoids the need to move the conversation to an external messaging platform. The reporting functionality allows users to report misinformation, inappropriate content, or other concerning posts available on the platform. Once a report is submitted, the relevant information can be made available to the administrator for review. This module therefore supports both student communication and responsible management of platform content.
+--- P398 [Heading 1] ---
+ADMIN MANAGEMENT MODULE
+--- P399 [Body Text] ---
+
+--- P400 [Body Text] ---
+The Admin Management Module provides a centralized interface for administrators to monitor and manage the activities of CampusLife. Administrators can
+--- P401 [Body Text] ---
+
+--- P402 [Body Text] ---
+
+--- P403 [Body Text] ---
+view student details and manage information related to study resources, campus events, marketplace listings, and lost-and-found records. The module also provides access to submitted reports so that administrators can review reported content and take appropriate action when required. Centralizing these functions helps administrators manage different sections of the application from a common dashboard instead of handling each activity separately. It also supports better monitoring of the information shared by students.
+--- P404 [Body Text] ---
+This helps prevent inappropriate or misleading information from remaining unaddressed on the platform. Centralized administration also makes it easier to maintain the consistency and reliability of application data. The module therefore plays an important role in monitoring the overall operation of CampusLife-KRCT and supporting proper management of the student community.
+--- P405 [Heading 1] ---
+AI CHATBOT MODULE
+--- P406 [Body Text] ---
+
+--- P407 [Body Text] ---
+The AI Chatbot Module provides an intelligent and convenient method for students to access information available through the CampusLife-KRCT application. Instead of manually visiting different sections of the application, students can interact with the chatbot and ask questions related to study resources, campus events, marketplace listings, and lost-and-found information. The chatbot is intended to help students locate relevant information more quickly.
+--- P408 [Body Text] ---
+The chatbot acts as an additional interface between the student and the different services provided by CampusLife-KRCT. For example, a student searching for a particular study resource can use the chatbot to obtain relevant guidance, while another student can use it to find information related to campus events or available marketplace and lost-and-found posts. This reduces the effort required to navigate through multiple sections of the application. By integrating AI-based assistance with the centralized campus platform, the module improves the overall accessibility and user experience of CampusLife-KRCT.
+--- P409 [Body Text] ---
+
+--- P410 [Heading 1] ---
+
+--- P411 [Heading 1] ---
+CHAPTER 8 SYSTEM TESTING
+--- P412 [Body Text] ---
+System testing is an essential phase in the development of the CampusLife – KRCT: A Unified Hub for Student Resources and Community application. It ensures that the developed application functions according to the specified requirements and that all modules work correctly under different conditions. Testing is carried out to identify errors, verify the correctness of data processing, and ensure that the application provides a reliable and user-friendly experience for students and administrators. Different levels of testing are performed on modules such as student registration, study resources, campus events, student marketplace, lost and found, messaging, reporting, administration, and the AI chatbot.
+--- P413 [Heading 1] ---
+UNIT TESTING
+--- P414 [Body Text] ---
+
+--- P415 [Body Text] ---
+Unit testing involves testing each individual module of the CampusLife-KRCT application separately to ensure that its functions work correctly. Each module is tested independently before being combined with other modules. For example, the Student Registration and Profile Module is tested to verify student registration using the college register number and proper storage of profile information. Similarly, the Study Resources Module is tested to ensure that students can upload and access academic resources correctly.
+--- P416 [Body Text] ---
+The Student Marketplace and Lost & Found Modules are also tested independently to verify the creation, display, and retrieval of listings and posts. The Messaging and Reporting Module is tested to ensure that messages and reports are submitted and processed correctly. The AI Chatbot Module is tested to verify that it can respond appropriately to queries related to study resources, campus events, marketplace listings, and lost-and-found information. Unit testing helps identify errors at an early stage and makes individual modules more reliable before integration.
+--- P417 [Body Text] ---
+
+--- P418 [Heading 1] ---
+
+--- P419 [Heading 1] ---
+INTEGRATION TESTING
+--- P420 [Body Text] ---
+
+--- P421 [Body Text] ---
+Integration testing is performed to verify that the different modules of CampusLife-KRCT communicate and work together correctly. It ensures that data generated in one module can be properly accessed or used by another related module. For example, when a student creates a marketplace listing, the listing should be correctly stored in the backend and displayed to other students. When another student shows interest in the listing, the messaging functionality should allow communication between the users.
+--- P422 [Body Text] ---
+Similarly, integration testing is performed between the Lost & Found Module and Messaging Module to ensure that students can communicate regarding relevant posts. The Reporting Module is tested with the Admin Management Module to verify that submitted reports are correctly made available to administrators for review. The AI Chatbot is also tested with the application's information sources to ensure that relevant information can be retrieved and presented to students. This testing helps identify problems related to data flow, module interaction, and communication between application components.
+--- P423 [Heading 1] ---
+SYSTEM TESTING
+--- P424 [Body Text] ---
+
+--- P425 [Body Text] ---
+System testing involves testing the complete CampusLife-KRCTapplication as a single integrated system. It verifies whether all modules work together properly and whether the application satisfies the specified functional requirements. The complete flow of the application is tested, beginning with student registration and continuing through the different services available to students.
+--- P426 [Body Text] ---
+The testing process includes checking study resource access, campus event information, marketplace activities, lost-and-found posts, messaging, content reporting, administrative management, and AI chatbot functionality. The system is also tested to ensure that information is correctly stored, retrieved, updated, and displayed to users. System testing helps verify the overall functionality, reliability, and consistency of the application before it is deployed for actual use.
+--- P427 [Body Text] ---
+
+--- P428 [Heading 1] ---
+
+--- P429 [Heading 1] ---
+PERFORMANCE TESTING
+--- P430 [Body Text] ---
+
+--- P431 [Body Text] ---
+Performance testing is conducted to measure the speed, responsiveness, stability, and efficiency of the CampusLife-KRCT application. The objective is to ensure that users can perform common operations without experiencing unnecessary delays. Since the application provides multiple services and uses a centralized backend, performance testing is important to determine whether information can be retrieved and stored efficiently.
+--- P432 [Body Text] ---
+The response time of important functions is considered during testing. These functions include student registration, loading study resources, viewing campus events, browsing marketplace listings, accessing lost-and-found posts, and retrieving information through the AI chatbot. The application is checked to determine whether screens load within a reasonable time and whether users receive appropriate feedback while operations are being processed. Delays in database queries or backend communication can affect the user experience, so these operations are also considered during performance evaluation.
+--- P433 [Body Text] ---
+The application is also considered under situations where multiple students may access the platform at the same time. For example, several students may simultaneously browse marketplace listings, access study materials, or view event information. Performance testing helps identify areas that may cause slow responses or inefficient data processing. Since Supabase and PostgreSQL are used for backend and database management, their interaction with the application is also considered while evaluating response time and data retrieval. The results of performance testing can be used to improve application efficiency and provide a smoother experience for students.
+--- P434 [Heading 1] ---
+SECURITY TESTING
+--- P435 [Body Text] ---
+
+--- P436 [Body Text] ---
+Security testing is performed to protect the CampusLife-KRCT application from unauthorized access and improper use of information. Since the application stores student profiles, marketplace information, lost-and-found posts, messages, reports, and administrative information, appropriate security measures are required to maintain the confidentiality and integrity of the data.
+--- P437 [Body Text] ---
+
+--- P438 [Body Text] ---
+
+--- P439 [Body Text] ---
+The registration and authentication processes are tested to ensure that users can access the application only through valid credentials and that student-specific information is not unnecessarily exposed.
+--- P440 [Body Text] ---
+Security testing also covers application data such as marketplace listings, lost-and-found information, reports, and messages. Attempts to access or modify information without the required permission are checked to ensure that unauthorized operations are prevented. Database interactions are also considered to ensure that information stored through the application is handled appropriately.
+--- P441 [Heading 1] ---
+USABILITY TESTING
+--- P442 [Body Text] ---
+
+--- P443 [Body Text] ---
+Usability testing is performed to evaluate whether the CampusLife-KRCT application is simple, understandable, and convenient for its intended users. Since students may access different features frequently, the interface should allow them to navigate between modules without confusion. The design, navigation structure, forms, buttons, menus, notifications, and information presentation are evaluated during usability testing.
+--- P444 [Body Text] ---
+The student registration process is tested to ensure that users can understand the required fields and complete registration without difficulty. The navigation of Study Resources, Campus Events, Student Marketplace, and Lost & Found is evaluated to determine whether students can quickly find the information they need. Marketplace listing creation and lost-and-found reporting forms are checked to ensure that students can enter information easily and understand the purpose of each field.
+--- P445 [Body Text] ---
+The navigation of the Study Resources, Campus Events, Student Marketplace, and Lost and Found modules is evaluated to determine whether students can quickly find the information they need. The presentation of study materials and event details is checked to ensure that the information is organized and readable. Marketplace listing creation and lost-and-found reporting forms are reviewed to confirm that students can enter information easily and understand the purpose of each field.
+--- P446 [Body Text] ---
+
+--- P447 [Heading 1] ---
+
+--- P448 [Heading 1] ---
+CHAPTER 9 RESULT AND DISCUSSION
+--- P449 [Body Text] ---
+The implementation of the CampusLife-KRCT application has successfully demonstrated the integration of different student services into a single platform. The system was developed and tested to ensure that the major modules work correctly.
+--- P450 [Body Text] ---
+The results show that the system reduces manual work and makes student information easier to access. Study materials, campus events, marketplace listings, and lost-and-found information are available in one application.
+--- P451 [Body Text] ---
+The study resources module helps students access and share academic materials easily. The campus events module provides information about college activities. The marketplace allows students to buy and sell items, while the Lost & Found module helps students report and find lost belongings.
+--- P452 [Body Text] ---
+The messaging and reporting features improve communication between students. Students can communicate for marketplace and lost-and-found activities and report inappropriate or misleading content. The admin module helps administrators manage students, events, marketplace listings, lost-and-found posts, and reports.
+--- P453 [Body Text] ---
+Performance testing results indicate that the application provides responsive access to its major features without significant delay under normal usage conditions. The user interface is simple and easy to navigate, making it suitable for students and administrators. Security testing also verifies that user access and administrative functions are appropriately restricted, helping protect application data from unauthorized access.Performanc
+--- P454 [Body Text] ---
+Overall, the CampusLife-KRCT application meets the objectives of providing a centralized student platform, improving access to resources, supporting campus activities, simplifying student-to-student interactions, and providing better administrative management. The results confirm that the proposed system is a reliable and effective solution for integrating student resources and community services within a college environment.
+--- P455 [Body Text] ---
+
+--- P456 [Heading 1] ---
+
+--- P457 [Heading 1] ---
+CHAPTER 10 CONCLUSION AND FUTURE WORK
+--- P458 [List Paragraph] ---
+CONCLUSION
+--- P459 [Body Text] ---
+
+--- P460 [Body Text] ---
+The CampusLife – KRCT: A Unified Hub for Student Resources and Community has been successfully designed and implemented to address the difficulties faced by students in accessing different campus services. The system integrates study resources, campus events, student marketplace, lost-and-found, messaging, reporting, and admin management into a single platform. The proposed system reduces manual work and makes important student information easier to access. The centralized database helps maintain information in an organized manner and allows authorized users to manage the system effectively.
+--- P461 [Body Text] ---
+The system also provides an AI chatbot to help students find relevant information easily. Overall, CampusLife improves student communication, resource sharing, and access to campus services. In conclusion, the project successfully achieves its objectives and provides a simple and useful platform for the college student community.
+--- P462 [Heading 1] ---
+FUTURE ENHANCEMENTS
+--- P463 [Body Text] ---
+
+--- P464 [Body Text] ---
+Although the system performs effectively, it can be further improved by adding advanced features in the future. One possible enhancement is to improve the AI chatbot so that it can provide more accurate and personalized information to students.
+--- P465 [Body Text] ---
+The system can also be enhanced by adding push notifications for important campus events, new marketplace listings, and lost-and-found updates. Online payment support can be added to make marketplace transactions easier. Features such as transaction history and order status can also be added to improve the marketplace experience.The application can also be extended with more advanced admin features and analytics to help administrators understand student activities and improve campus services.
+--- P466 [Body Text] ---
+
+--- P467 [Heading 1] ---
+
+--- P468 [Heading 1] ---
+APPENDIX A SOURCE CODE
+--- P469 [Normal] ---
+MAIN HOME SCREEN
+--- P470 [Normal] ---
+import { useEffect } from "react";
+--- P471 [Normal] ---
+import { useQuery, useQueryClient } from "@tanstack/react-query"; import {
+--- P472 [Normal] ---
+createFileRoute, Link,
+--- P473 [Normal] ---
+} from "@tanstack/react-router"; import {
+--- P474 [Normal] ---
+ArrowRight, BookOpen, CalendarDays, ChevronRight, Clock3, GraduationCap, MessageCircle, PackageOpen, Search, Sparkles, Users,
+--- P475 [Normal] ---
+} from "lucide-react";
+--- P476 [Normal] ---
+import CampusLifeChatbot from "@/components/ai/CampusLifeChatbot"; import { EventPreviewCard } from "@/components/home/EventPreviewCard"; import { FeatureCard } from "@/components/home/FeatureCard";
+--- P477 [Normal] ---
+
+--- P478 [Normal] ---
+
+--- P479 [Normal] ---
+import { QuickActionFab } from "@/components/home/QuickActionFab";
+--- P480 [Normal] ---
+import { ResourcePreviewCard } from "@/components/home/ResourcePreviewCard"; import { AppShell } from "@/components/layout/AppShell";
+--- P481 [Normal] ---
+import { EmptyState } from "@/components/ui/EmptyState"; import { Skeleton } from "@/components/ui/skeleton"; import { useAuth } from "@/hooks/use-auth";
+--- P482 [Normal] ---
+import { firstName, formatSemester, formatYear,
+--- P483 [Normal] ---
+} from "@/lib/auth";
+--- P484 [Normal] ---
+import { fetchUpcomingEvents } from "@/lib/events"; import { fetchResources } from "@/lib/resources";
+--- P485 [Normal] ---
+import { fetchLostFoundConversations } from "@/lib/lost-found"; import { fetchConversations } from "@/lib/marketplace";
+--- P486 [Normal] ---
+import { supabase } from "@/integrations/supabase/client";
+--- P487 [Normal] ---
+export const Route = createFileRoute( "/_authenticated/home",
+--- P488 [Normal] ---
+)({
+--- P489 [Normal] ---
+head: () => ({ meta: [
+--- P490 [Normal] ---
+{
+--- P491 [Normal] ---
+title: "Home — CampusLife",
+--- P492 [Normal] ---
+},
+--- P493 [Normal] ---
+{
+--- P494 [Normal] ---
+name: "description",
+--- P495 [Normal] ---
+
+--- P496 [Normal] ---
+content:
+--- P497 [Normal] ---
+"Your CampusLife dashboard: upcoming campus events, recent study resources and quick actions.",
+--- P498 [Normal] ---
+},
+--- P499 [Normal] ---
+{
+--- P500 [Normal] ---
+property: "og:title", content:
+--- P501 [Normal] ---
+"Home — CampusLife",
+--- P502 [Normal] ---
+},
+--- P503 [Normal] ---
+{
+--- P504 [Normal] ---
+property: "og:description", content:
+--- P505 [Normal] ---
+"Upcoming events, recent resources and quick actions for KRCT students.",
+--- P506 [Normal] ---
+},
+--- P507 [Normal] ---
+],
+--- P508 [Normal] ---
+}),
+--- P509 [Normal] ---
+component: HomePage,
+--- P510 [Normal] ---
+});
+--- P511 [Normal] ---
+function greeting() {
+--- P512 [Normal] ---
+const hour = new Date().getHours();
+--- P513 [Normal] ---
+if (hour < 12) {
+--- P514 [Normal] ---
+return "Good morning";
+--- P515 [Normal] ---
+}
+--- P516 [Normal] ---
+if (hour < 17) {
+--- P517 [Normal] ---
+
+--- P518 [Normal] ---
+
+--- P519 [Normal] ---
+return "Good afternoon";
+--- P520 [Normal] ---
+}
+--- P521 [Normal] ---
+return "Good evening";
+--- P522 [Normal] ---
+}
+--- P523 [Normal] ---
+function HomePage() {
+--- P524 [Normal] ---
+const { profile, user } = useAuth();
+--- P525 [Normal] ---
+const queryClient = useQueryClient();
+--- P526 [Normal] ---
+const collegeId = profile?.college_id ?? null;
+--- P527 [Normal] ---
+/*
+--- P528 [Normal] ---
+* ============================================================
+--- P529 [Normal] ---
+* MARKETPLACE CONVERSATIONS
+--- P530 [Normal] ---
+* ============================================================
+--- P531 [Normal] ---
+*/
+--- P532 [Normal] ---
+const marketplaceConversationsQuery = useQuery({
+--- P533 [Normal] ---
+queryKey: [
+--- P534 [Normal] ---
+"home-marketplace-conversations", user?.id,
+--- P535 [Normal] ---
+],
+--- P536 [Normal] ---
+queryFn: () => fetchConversations(user!.id),
+--- P537 [Normal] ---
+
+--- P538 [Normal] ---
+
+--- P539 [Normal] ---
+enabled: Boolean(user?.id),
+--- P540 [Normal] ---
+});
+--- P541 [Normal] ---
+const lostFoundConversationsQuery = useQuery({
+--- P542 [Normal] ---
+queryKey: [
+--- P543 [Normal] ---
+"home-lost-found-conversations", user?.id,
+--- P544 [Normal] ---
+],
+--- P545 [Normal] ---
+queryFn: () => fetchLostFoundConversations( user!.id,
+--- P546 [Normal] ---
+),
+--- P547 [Normal] ---
+enabled: Boolean(user?.id),
+--- P548 [Normal] ---
+});
+--- P549 [Normal] ---
+const marketplaceUnreadCount = (
+--- P550 [Normal] ---
+marketplaceConversationsQuery.data ?? []
+--- P551 [Normal] ---
+).reduce(
+--- P552 [Normal] ---
+(total, conversation) => total +
+--- P553 [Normal] ---
+(conversation.unread_count ?? 0),
+--- P554 [Normal] ---
+0,
+--- P555 [Normal] ---
+);
+--- P556 [Normal] ---
+const marketplaceChannel = supabase
+--- P557 [Normal] ---
+.channel(
+--- P558 [Normal] ---
+
+--- P559 [Normal] ---
+
+--- P560 [Normal] ---
+`home-marketplace-unread-${user.id}`,
+--- P561 [Normal] ---
+)
+--- P562 [Normal] ---
+.on(
+--- P563 [Normal] ---
+"postgres_changes",
+--- P564 [Normal] ---
+{
+--- P565 [Normal] ---
+event: "INSERT", schema: "public",
+--- P566 [Normal] ---
+table: "marketplace_messages",
+--- P567 [Normal] ---
+},
+--- P568 [Normal] ---
+() => {
+--- P569 [Normal] ---
+void queryClient.invalidateQueries({ queryKey: [
+--- P570 [Normal] ---
+"home-marketplace-conversations", user.id,
+--- P571 [Normal] ---
+],
+--- P572 [Normal] ---
+});
+--- P573 [Normal] ---
+},
+--- P574 [Normal] ---
+)
+--- P575 [Normal] ---
+.subscribe();
+--- P576 [Normal] ---
+return () => {
+--- P577 [Normal] ---
+void supabase.removeChannel( marketplaceChannel,
+--- P578 [Normal] ---
+);
+--- P579 [Normal] ---
+};
+--- P580 [Normal] ---
+<div className="relative">
+--- P581 [Normal] ---
+
+--- P582 [Normal] ---
+
+--- P583 [Normal] ---
+<div className="mb-4 inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/10 px-3 py-1.5 text-xs font-medium backdrop-blur">
+--- P584 [Normal] ---
+<Sparkles className="size-3.5" aria-hidden="true"
+--- P585 [Normal] ---
+/>
+--- P586 [Normal] ---
+Your campus, connected
+--- P587 [Normal] ---
+</div>
+--- P588 [Normal] ---
+<p className="text-sm font-medium text-white/70">
+--- P589 [Normal] ---
+{greeting()}
+--- P590 [Normal] ---
+</p>
+--- P591 [Normal] ---
+<h1 className="mt-1 text-3xl font-bold tracking-tight sm:text-4xl">
+--- P592 [Normal] ---
+{profile
+--- P593 [Normal] ---
+? firstName( profile.full_name,
+--- P594 [Normal] ---
+)
+--- P595 [Normal] ---
+: "Student"}{" "}
+--- P596 [Normal] ---
+</h1>
+--- P597 [Normal] ---
+{profile ? (
+--- P598 [Normal] ---
+<div className="mt-3 flex flex-wrap items-center gap-2 text-sm text-white/80">
+--- P599 [Normal] ---
+<span className="inline-flex items-center gap-1.5">
+--- P600 [Normal] ---
+<GraduationCap className="size-4" aria-hidden="true"
+--- P601 [Normal] ---
+/>
+--- P602 [Normal] ---
+{profile.department}
+--- P603 [Normal] ---
+
+--- P604 [Normal] ---
+</span>
+--- P605 [Normal] ---
+<span className="text-white/30">
+--- P606 [Normal] ---
+</span>
+--- P607 [Normal] ---
+{/* STUDY RESOURCES */}
+--- P608 [Normal] ---
+<div
+--- P609 [Normal] ---
+className="animate-slide-up" style={{
+--- P610 [Normal] ---
+animationDelay: "40ms",
+--- P611 [Normal] ---
+}}
+--- P612 [Normal] ---
+>
+--- P613 [Normal] ---
+<FeatureCard to="/resources" label="Study Resources"
+--- P614 [Normal] ---
+description="Notes, PYQs, videos" icon={BookOpen} accent="indigo"
+--- P615 [Normal] ---
+/>
+--- P616 [Normal] ---
+</div>
+--- P617 [Normal] ---
+{/* RESOURCE SHARING */}
+--- P618 [Normal] ---
+<div
+--- P619 [Normal] ---
+className="animate-slide-up" style={{
+--- P620 [Normal] ---
+animationDelay: "90ms",
+--- P621 [Normal] ---
+}}
+--- P622 [Normal] ---
+>
+--- P623 [Normal] ---
+
+--- P624 [Normal] ---
+
+--- P625 [Normal] ---
+<FeatureCard to="/sharing" label="Resource Sharing"
+--- P626 [Normal] ---
+description="Lend, sell or give" icon={PackageOpen} accent="amber"
+--- P627 [Normal] ---
+/>
+--- P628 [Normal] ---
+</div>
+--- P629 [Normal] ---
+{/* CAMPUS EVENTS */}
+--- P630 [Normal] ---
+<div
+--- P631 [Normal] ---
+className="animate-slide-up" style={{
+--- P632 [Normal] ---
+animationDelay: "140ms",
+--- P633 [Normal] ---
+}}
+--- P634 [Normal] ---
+>
+--- P635 [Normal] ---
+<FeatureCard to="/events" label="Campus Events"
+--- P636 [Normal] ---
+description="Workshops & fests" icon={CalendarDays} accent="emerald"
+--- P637 [Normal] ---
+/>
+--- P638 [Normal] ---
+</div>
+--- P639 [Normal] ---
+{/* LOST & FOUND */}
+--- P640 [Normal] ---
+<div
+--- P641 [Normal] ---
+
+--- P642 [Normal] ---
+
+--- P643 [Normal] ---
+className="animate-slide-up" style={{
+--- P644 [Normal] ---
+animationDelay: "190ms",
+--- P645 [Normal] ---
+}}
+--- P646 [Normal] ---
+>
+--- P647 [Normal] ---
+<FeatureCard to="/lost-found"
+--- P648 [Normal] ---
+label="Lost & Found" description="Reunite lost items" icon={Search}
+--- P649 [Normal] ---
+accent="rose"
+--- P650 [Normal] ---
+/>
+--- P651 [Normal] ---
+</div>
+--- P652 [Normal] ---
+{/* MESSAGES */}
+--- P653 [Normal] ---
+<div
+--- P654 [Normal] ---
+className="animate-slide-up" style={{
+--- P655 [Normal] ---
+animationDelay: "240ms",
+--- P656 [Normal] ---
+}}
+--- P657 [Normal] ---
+>
+--- P658 [Normal] ---
+STUDY RESOURCES
+--- P659 [Normal] ---
+import { useQuery } from "@tanstack/react-query";
+--- P660 [Normal] ---
+import { createFileRoute, Link } from "@tanstack/react-router"; import {
+--- P661 [Normal] ---
+ArrowUpRight,
+--- P662 [Normal] ---
+
+--- P663 [Normal] ---
+
+--- P664 [Normal] ---
+BookOpen, Filter, Sparkles, Upload,
+--- P665 [Normal] ---
+} from "lucide-react";
+--- P666 [Normal] ---
+     import { AppShell } from "@/components/layout/AppShell";
+--- P667 [Normal] ---
+      import { ResourceCard } from "@/components/resources/ResourceCard"; 
+--- P668 [Normal] ---
+      import { Button } from "@/components/ui/button";
+--- P669 [Normal] ---
+import { EmptyState } from "@/components/ui/EmptyState"; import { Skeleton } from "@/components/ui/skeleton"; import {
+--- P670 [Normal] ---
+Select, SelectContent, SelectItem, SelectTrigger, SelectValue,
+--- P671 [Normal] ---
+} from "@/components/ui/select";
+--- P672 [Normal] ---
+import { useAuth } from "@/hooks/use-auth"; import {
+--- P673 [Normal] ---
+DEPARTMENTS, SEMESTERS_BY_YEAR, YEARS,
+--- P674 [Normal] ---
+} from "@/lib/constants";
+--- P675 [Normal] ---
+import type { Year } from "@/lib/constants"; import {
+--- P676 [Normal] ---
+RESOURCE_MESSAGES,
+--- P677 [Normal] ---
+
+--- P678 [Normal] ---
+
+--- P679 [Normal] ---
+TYPE_FILTERS,
+--- P680 [Normal] ---
+fetchResources, fetchSubjects,
+--- P681 [Normal] ---
+} from "@/lib/resources"; import { cn } from "@/lib/utils";
+--- P682 [Normal] ---
+import { useFilterStore } from "@/stores/filter-store";
+--- P683 [Normal] ---
+     export const Route = createFileRoute("/_authenticated/resources/")({ head: () => ({
+--- P684 [Normal] ---
+meta: [
+--- P685 [Normal] ---
+{ title: "Study Resources — CampusLife" },
+--- P686 [Normal] ---
+{
+--- P687 [Normal] ---
+name: "description", content:
+--- P688 [Normal] ---
+"Browse handwritten notes, previous year question papers, videos and websites shared by KRCT students.",
+--- P689 [Normal] ---
+},
+--- P690 [Normal] ---
+{
+--- P691 [Normal] ---
+property: "og:title",
+--- P692 [Normal] ---
+content: "Study Resources — CampusLife",
+--- P693 [Normal] ---
+},
+--- P694 [Normal] ---
+{
+--- P695 [Normal] ---
+property: "og:description", content:
+--- P696 [Normal] ---
+"Browse handwritten notes, previous year question papers, videos and websites shared by KRCT students.",
+--- P697 [Normal] ---
+},
+--- P698 [Normal] ---
+],
+--- P699 [Normal] ---
+
+--- P700 [Normal] ---
+
+--- P701 [Normal] ---
+}),
+--- P702 [Normal] ---
+component: ResourcesPage,
+--- P703 [Normal] ---
+});
+--- P704 [Normal] ---
+function ResourcesPage() { const { profile } = useAuth();
+--- P705 [Normal] ---
+const collegeId = profile?.college_id ?? null;
+--- P706 [Normal] ---
+ const { department, year, semester, subject, resourceType, setFilter, resetFilters,
+--- P707 [Normal] ---
+} = useFilterStore();
+--- P708 [Normal] ---
+const semesterOptions = year
+--- P709 [Normal] ---
+? (SEMESTERS_BY_YEAR[year as Year] ?? [])
+--- P710 [Normal] ---
+: [];
+--- P711 [Normal] ---
+const subjectsQuery = useQuery({ queryKey: [
+--- P712 [Normal] ---
+"resource-subjects", collegeId, department,
+--- P713 [Normal] ---
+year,
+--- P714 [Normal] ---
+semester,
+--- P715 [Normal] ---
+],
+--- P716 [Normal] ---
+enabled: Boolean(collegeId) && Boolean(department) && Boolean(year) && Boolean(semester), queryFn: () => fetchSubjects(
+--- P717 [Normal] ---
+
+--- P718 [Normal] ---
+collegeId!, department, year, semester,
+--- P719 [Normal] ---
+),
+--- P720 [Normal] ---
+});
+--- P721 [Normal] ---
+const resourcesQuery = useQuery({ queryKey: [
+--- P722 [Normal] ---
+"resources", collegeId, department, year, semester, subject, resourceType,
+--- P723 [Normal] ---
+],
+--- P724 [Normal] ---
+enabled: Boolean(collegeId), queryFn: () =>
+--- P725 [Normal] ---
+({ collegeId: collegeId!, department,
+--- P726 [Normal] ---
+year, semester, subject,
+--- P727 [Normal] ---
+type: resourceType,
+--- P728 [Normal] ---
+}),
+--- P729 [Normal] ---
+});
+--- P730 [Normal] ---
+const subjectEnabled = Boolean( department && year && semester,
+--- P731 [Normal] ---
+);
+--- P732 [Normal] ---
+
+--- P733 [Normal] ---
+
+--- P734 [Normal] ---
+
+--- P735 [Normal] ---
+<div
+--- P736 [Normal] ---
+className="pointer-events-none absolute right-20 top-20 size-20 rounded-full border border-white/10"
+--- P737 [Normal] ---
+aria-hidden="true"
+--- P738 [Normal] ---
+/>
+--- P739 [Normal] ---
+<div
+--- P740 [Normal] ---
+className="pointer-events-none absolute right-28 top-28 size-8 rounded-full bg-white/10"
+--- P741 [Normal] ---
+aria-hidden="true"
+--- P742 [Normal] ---
+/>
+--- P743 [Normal] ---
+<div className="relative">
+--- P744 [Normal] ---
+{/* Top row */}
+--- P745 [Normal] ---
+<div className="flex items-start justify-between gap-4">
+--- P746 [Normal] ---
+<div className="grid size-12 shrink-0 place-items-center rounded-2xl bg-white/10 shadow-lg backdrop-blur-md">
+--- P747 [Normal] ---
+BookOpen className="size-6" aria-hidden="true"
+--- P748 [Normal] ---
+/>
+--- P749 [Normal] ---
+</div>
+--- P750 [Normal] ---
+                  <Sparkles
+--- P751 [Normal] ---
+className="mt-1 size-5 text-white/60" aria-hidden="true"
+--- P752 [Normal] ---
+/>
+--- P753 [Normal] ---
+
+--- P754 [Normal] ---
+
+--- P755 [Normal] ---
+
+--- P756 [Normal] ---
+</div>
+--- P757 [Normal] ---
+                 {/* Badge */}
+--- P758 [Normal] ---
+<p className="mt-5 text-xs font-semibold uppercase tracking-[0.18em] text-white/60">
+--- P759 [Normal] ---
+RESOURCE HUB
+--- P760 [Normal] ---
+</p>
+--- P761 [Normal] ---
+{/* Heading */}
+--- P762 [Normal] ---
+<h1 className="mt-1 text-2xl font-black tracking-tight sm:text-3xl"> Study smarter together.
+--- P763 [Normal] ---
+</h1>
+--- P764 [Normal] ---
+<p className="mt-2 max-w-xl text-sm leading-6 text-white/80 sm:text-[15px]">
+--- P765 [Normal] ---
+Find notes, previous year question papers, useful videos and study materials shared by KRCT students.
+--- P766 [Normal] ---
+</p>
+--- P767 [Normal] ---
+{/* Actions */}
+--- P768 [Normal] ---
+<div className="mt-5 flex flex-wrap items-center gap-3">
+--- P769 [Normal] ---
+<Button asChild
+--- P770 [Normal] ---
+className="h-10 rounded-xl bg-white px-4 text-sm font-semibold text-blue-800 shadow-lg hover:bg-white/90"
+--- P771 [Normal] ---
+>
+--- P772 [Normal] ---
+<Link to="/resources/upload">
+--- P773 [Normal] ---
+<Upload className="size-4" /> Share a resource
+--- P774 [Normal] ---
+</Link>
+--- P775 [Normal] ---
+</Button>
+--- P776 [Normal] ---
+                   
+--- P777 [Normal] ---
+
+--- P778 [Normal] ---
+
+--- P779 [Normal] ---
+
+--- P780 [Normal] ---
+{resourceCount > 0 ? (
+--- P781 [Normal] ---
+<span className="rounded-full border border-white/15 bg-white/10 px-3 py-1.5 text-xs font-medium text-white/80 backdrop-blur-md">
+--- P782 [Normal] ---
+{resourceCount} resources available
+--- P783 [Normal] ---
+</span>
+--- P784 [Normal] ---
+) : null}
+--- P785 [Normal] ---
+</div>
+--- P786 [Normal] ---
+CAMPUS EVENTS
+--- P787 [Normal] ---
+import { useQuery } from "@tanstack/react-query";
+--- P788 [Normal] ---
+import { createFileRoute, Link } from "@tanstack/react-router"; import {
+--- P789 [Normal] ---
+CalendarDays, ChevronRight, Clock3, MapPin,
+--- P790 [Normal] ---
+Plus, Search,
+--- P791 [Normal] ---
+Sparkles, Users,
+--- P792 [Normal] ---
+} from "lucide-react";
+--- P793 [Normal] ---
+import { useMemo, useState } from "react";
+--- P794 [Normal] ---
+import { AppShell } from "@/components/layout/AppShell"; import { EmptyState } from "@/components/ui/EmptyState"; import { Skeleton } from "@/components/ui/skeleton"; import { Button } from "@/components/ui/button";
+--- P795 [Normal] ---
+import { Input } from "@/components/ui/input"; import { useAuth } from "@/hooks/use-auth"; 
+--- P796 [Normal] ---
+
+--- P797 [Normal] ---
+
+--- P798 [Normal] ---
+
+--- P799 [Normal] ---
+
+--- P800 [Normal] ---
+
+--- P801 [Normal] ---
+import {
+--- P802 [Normal] ---
+fetchUpcomingEvents, 
+--- P803 [Normal] ---
+formatEventDate, formatEventTime,
+--- P804 [Normal] ---
+} from "@/lib/events";
+--- P805 [Normal] ---
+return data.filter((event) => { const searchable = [ event.title, event.description, event.venue, event.creator_name,
+--- P806 [Normal] ---
+]
+--- P807 [Normal] ---
+.filter(Boolean)
+--- P808 [Normal] ---
+.join(" ")
+--- P809 [Normal] ---
+.toLowerCase();
+--- P810 [Normal] ---
+searchable.includes(query);
+--- P811 [Normal] ---
+});
+--- P812 [Normal] ---
+}, [eventsQuery.data, search]);
+--- P813 [Normal] ---
+return (
+--- P814 [Normal] ---
+<AppShell title="Campus Events" backTo="/home">
+--- P815 [Normal] ---
+<div className="space-y-6">
+--- P816 [Normal] ---
+<section className="relative overflow-hidden rounded-[28px] bg-gradient-to-br from-emerald-950 via-emerald-800 to-green-600 px-5 py-7 text-white shadow-raised sm:px-8 sm:py-9">
+--- P817 [Normal] ---
+<div
+--- P818 [Normal] ---
+className="pointer-events-none absolute -right-16 -top-16 size-48 rounded-full bg-white/10 blur-3xl"
+--- P819 [Normal] ---
+
+--- P820 [Normal] ---
+
+--- P821 [Normal] ---
+
+--- P822 [Normal] ---
+aria-hidden="true"
+--- P823 [Normal] ---
+/>
+--- P824 [Normal] ---
+<div className="mt-5 flex flex-wrap gap-3">
+--- P825 [Normal] ---
+<Button asChild
+--- P826 [Normal] ---
+className="h-10 rounded-xl bg-white px-4 font-bold text-emerald-800 shadow-lg hover:bg-white/90"
+--- P827 [Normal] ---
+>
+--- P828 [Normal] ---
+<Link to="/events/create">
+--- P829 [Normal] ---
+<Plus className="size-4" aria-hidden="true" /> Post an event
+--- P830 [Normal] ---
+</Link>
+--- P831 [Normal] ---
+</Button>
+--- P832 [Normal] ---
+<Link to="/events/saved"
+--- P833 [Normal] ---
+className="inline-flex h-10 items-center gap-2 rounded-xl border border-white/20 bg-white/10 px-4 text-sm font-semibold backdrop-blur-md transition hover:bg-white/15"
+--- P834 [Normal] ---
+>
+--- P835 [Normal] ---
+<Sparkles className="size-4" aria-hidden="true" /> Saved events
+--- P836 [Normal] ---
+</Link>
+--- P837 [Normal] ---
+</div>
+--- P838 [Normal] ---
+MARKETPLACE
+--- P839 [Normal] ---
+import { useQuery } from "@tanstack/react-query";
+--- P840 [Normal] ---
+import { createFileRoute, Link } from "@tanstack/react-router"; import {
+--- P841 [Normal] ---
+
+--- P842 [Normal] ---
+
+--- P843 [Normal] ---
+
+--- P844 [Normal] ---
+
+--- P845 [Normal] ---
+ArrowRight, BookOpen, Gift, MapPin,
+--- P846 [Normal] ---
+PackageOpen, Plus,
+--- P847 [Normal] ---
+Search, ShoppingBag, Sparkles, Tag,
+--- P848 [Normal] ---
+} from "lucide-react";
+--- P849 [Normal] ---
+import { useState } from "react";
+--- P850 [Normal] ---
+import { AppShell } from "@/components/layout/AppShell"; import { Button } from "@/components/ui/button";
+--- P851 [Normal] ---
+import { EmptyState } from "@/components/ui/EmptyState";
+--- P852 [Normal] ---
+import { Input } from "@/components/ui/input"; import { Skeleton } from "@/components/ui/skeleton"; import {
+--- P853 [Normal] ---
+Select, SelectContent, SelectItem, SelectTrigger, SelectValue,
+--- P854 [Normal] ---
+} from "@/components/ui/select";
+--- P855 [Normal] ---
+import { useAuth } from "@/hooks/use-auth"; import {
+--- P856 [Normal] ---
+CATEGORIES, CONDITIONS,
+--- P857 [Normal] ---
+createSignedImageUrl, fetchListings, formatPrice,
+--- P858 [Normal] ---
+
+--- P859 [Normal] ---
+
+--- P860 [Normal] ---
+
+--- P861 [Normal] ---
+
+--- P862 [Normal] ---
+
+--- P863 [Normal] ---
+} from "@/lib/marketplace";
+--- P864 [Normal] ---
+export const Route = createFileRoute("/_authenticated/sharing/")({ head: () => ({
+--- P865 [Normal] ---
+meta: [
+--- P866 [Normal] ---
+{ title: "Resource Sharing — CampusLife" },
+--- P867 [Normal] ---
+{
+--- P868 [Normal] ---
+name: "description", content:
+--- P869 [Normal] ---
+"Lend, sell or give away academic items with other KRCT students.",
+--- P870 [Normal] ---
+},
+--- P871 [Normal] ---
+{
+--- P872 [Normal] ---
+property: "og:title",
+--- P873 [Normal] ---
+content: "Resource Sharing — CampusLife",
+--- P874 [Normal] ---
+},
+--- P875 [Normal] ---
+{property: "og:description", content:
+--- P876 [Normal] ---
+"Lend, sell or give away academic items with other KRCT students.",
+--- P877 [Normal] ---
+},
+--- P878 [Normal] ---
+],
+--- P879 [Normal] ---
+}),
+--- P880 [Normal] ---
+component: SharingPage,
+--- P881 [Normal] ---
+});
+--- P882 [Normal] ---
+function SharingPage() { const { profile } = useAuth();
+--- P883 [Normal] ---
+const collegeId = profile?.college_id ?? null; const listingsQuery = useQuery({ 
+--- P884 [Normal] ---
+
+--- P885 [Normal] ---
+
+--- P886 [Normal] ---
+
+--- P887 [Normal] ---
+
+--- P888 [Normal] ---
+queryKey: [
+--- P889 [Normal] ---
+"marketplace-listings", collegeId,
+--- P890 [Normal] ---
+search, category, condition, priceMode,
+--- P891 [Normal] ---
+],
+--- P892 [Normal] ---
+enabled: Boolean(collegeId),
+--- P893 [Normal] ---
+queryFn: () => fetchListings({ collegeId: collegeId!, search,
+--- P894 [Normal] ---
+category: category === "all" ? null : category, condition: condition === "all" ? null : condition, priceMode,
+--- P895 [Normal] ---
+}),
+--- P896 [Normal] ---
+});
+--- P897 [Normal] ---
+<div className="mt-3 grid grid-cols-2 gap-3">
+--- P898 [Normal] ---
+<Select value={category}
+--- P899 [Normal] ---
+onValueChange={setCategory}
+--- P900 [Normal] ---
+>
+--- P901 [Normal] ---
+<SelectTrigger className="h-11 rounded-xl">
+--- P902 [Normal] ---
+<SelectValue placeholder="Category" />
+--- P903 [Normal] ---
+</SelectTrigger>
+--- P904 [Normal] ---
+<SelectContent>
+--- P905 [Normal] ---
+
+--- P906 [Normal] ---
+
+--- P907 [Normal] ---
+
+--- P908 [Normal] ---
+<SelectItem value="all"> All categories
+--- P909 [Normal] ---
+</SelectItem>
+--- P910 [Normal] ---
+<div className="mt-4">
+--- P911 [Normal] ---
+<p className="mb-2 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">
+--- P912 [Normal] ---
+Availability
+--- P913 [Normal] ---
+</p>
+--- P914 [Normal] ---
+</section>
+--- P915 [Normal] ---
+<p className="mt-1 text-xs leading-5 text-muted-foreground"> Share unused books, equipment or academic supplies with the KRCT community.
+--- P916 [Normal] ---
+</p>
+--- P917 [Normal] ---
+<Button asChild variant="link"
+--- P918 [Normal] ---
+className="mt-2 h-auto px-0 text-xs font-bold text-orange-700"
+--- P919 [Normal] ---
+>
+--- P920 [Normal] ---
+<Link to="/sharing/create"> Share an item
+--- P921 [Normal] ---
+<ArrowRight className="size-3.5" aria-hidden="true"
+--- P922 [Normal] ---
+/>
+--- P923 [Normal] ---
+</Link>
+--- P924 [Normal] ---
+</Button>
+--- P925 [Normal] ---
+</div>
+--- P926 [Normal] ---
+
+--- P927 [Normal] ---
+
+--- P928 [Normal] ---
+
+--- P929 [Normal] ---
+</div>
+--- P930 [Normal] ---
+</section>
+--- P931 [Normal] ---
+) : null}
+--- P932 [Normal] ---
+</div>
+--- P933 [Normal] ---
+</AppShell>
+--- P934 [Normal] ---
+);
+--- P935 [Normal] ---
+}
+--- P936 [Normal] ---
+ADMIN DASHBOARD
+--- P937 [Normal] ---
+import { createFileRoute, Link, useNavigate,
+--- P938 [Normal] ---
+} from "@tanstack/react-router"; import {
+--- P939 [Normal] ---
+CalendarDays, ChevronRight, FileText,
+--- P940 [Normal] ---
+Flag, LogOut, Search, ShieldCheck,
+--- P941 [Normal] ---
+ShoppingBag, Users,
+--- P942 [Normal] ---
+} from "lucide-react";
+--- P943 [Normal] ---
+{
+--- P944 [Normal] ---
+title: "Resources", description:
+--- P945 [Normal] ---
+
+--- P946 [Normal] ---
+
+--- P947 [Normal] ---
+
+--- P948 [Normal] ---
+
+--- P949 [Normal] ---
+"View uploaded resources and manage them.", icon: FileText,
+--- P950 [Normal] ---
+color: "bg-indigo-500/10 text-indigo-600", to: "/admin/resources",
+--- P951 [Normal] ---
+},
+--- P952 [Normal] ---
+{
+--- P953 [Normal] ---
+title: "Marketplace / Sharing", description:
+--- P954 [Normal] ---
+"View listings, uploader details and remove items.", icon: ShoppingBag,
+--- P955 [Normal] ---
+color: "bg-orange-500/10 text-orange-600", to: "/admin/marketplace",
+--- P956 [Normal] ---
+},
+--- P957 [Normal] ---
+{
+--- P958 [Normal] ---
+title: "Events", description:
+--- P959 [Normal] ---
+"View events, uploader details and remove events.", icon: CalendarDays,
+--- P960 [Normal] ---
+color: "bg-green-500/10 text-green-600", to: "/admin/events",
+--- P961 [Normal] ---
+},
+--- P962 [Normal] ---
+{
+--- P963 [Normal] ---
+title: "Reports", description:
+--- P964 [Normal] ---
+"View reports and take action on reported content.", icon: Flag,
+--- P965 [Normal] ---
+color: "bg-red-500/10 text-red-600", to: "/admin/reports",
+--- P966 [Normal] ---
+},
+--- P967 [Normal] ---
+];
+--- P968 [Normal] ---
+
+--- P969 [Normal] ---
+
+--- P970 [Normal] ---
+
+--- P971 [Normal] ---
+const handleLogout = async () => { await signOut();
+--- P972 [Normal] ---
+<div>
+--- P973 [Normal] ---
+<p className="text-xs font-semibold uppercase tracking-widest text-primary/70"> CampusLife
+--- P974 [Normal] ---
+</p>
+--- P975 [Normal] ---
+<h1 className="mt-1 text-2xl font-bold tracking-tight text-foreground"> Admin Dashboard
+--- P976 [Normal] ---
+</h1>
+--- P977 [Normal] ---
+<p className="mt-1 text-sm text-muted-foreground"> Manage students, content and reports.
+--- P978 [Normal] ---
+</p>
+--- P979 [Normal] ---
+</div>
+--- P980 [Normal] ---
+</div>
+--- P981 [Normal] ---
+<button type="button"
+--- P982 [Normal] ---
+onClick={() => void handleLogout()}
+--- P983 [Normal] ---
+className="inline-flex shrink-0 items-center gap-2 rounded-xl border border-border bg-card px-3.5 py-2.5 text-sm font-semibold text-foreground shadow-sm transition-colors hover:bg-muted active:scale-[0.98]"
+--- P984 [Normal] ---
+>
+--- P985 [Normal] ---
+<LogOut className="size-4" aria-hidden="true"
+--- P986 [Normal] ---
+/> Logout
+--- P987 [Normal] ---
+</button>
+--- P988 [Normal] ---
+</div>
+--- P989 [Normal] ---
+
+--- P990 [Normal] ---
+
+--- P991 [Normal] ---
+
+--- P992 [Normal] ---
+</section>
+--- P993 [Normal] ---
+<p className="mt-1 text-sm text-muted-foreground">
+--- P994 [Normal] ---
+Choose what you want to manage.
+--- P995 [Normal] ---
+</p>
+--- P996 [Normal] ---
+</div>
+--- P997 [Normal] ---
+<span
+--- P998 [Normal] ---
+className={`grid size-12 shrink-0 place-items-center rounded-2xl
+--- P999 [Normal] ---
+${section.color}`}
+--- P1000 [Normal] ---
+>
+--- P1001 [Normal] ---
+<Icon className="size-6"
+--- P1002 [Normal] ---
+/>
+--- P1003 [Normal] ---
+</span>
+--- P1004 [Normal] ---
+<div className="min-w-0 flex-1">
+--- P1005 [Normal] ---
+<h3 className="font-semibold text-foreground">
+--- P1006 [Normal] ---
+{section.title}
+--- P1007 [Normal] ---
+</h3>
+--- P1008 [Normal] ---
+<p className="mt-1 text-sm leading-5 text-muted-foreground">
+--- P1009 [Normal] ---
+{section.description}
+--- P1010 [Normal] ---
+</p>
+--- P1011 [Normal] ---
+</div>
+--- P1012 [Normal] ---
+
+--- P1013 [Normal] ---
+
+--- P1014 [Normal] ---
+
+--- P1015 [Normal] ---
+
+--- P1016 [Normal] ---
+<ChevronRight
+--- P1017 [Normal] ---
+className="size-5 shrink-0 text-muted-foreground transition-transform duration-200 group-hover:translate-x-1"
+--- P1018 [Normal] ---
+aria-hidden="true"
+--- P1019 [Normal] ---
+/>
+--- P1020 [Normal] ---
+</Link>
+--- P1021 [Normal] ---
+);
+--- P1022 [Normal] ---
+})}
+--- P1023 [Normal] ---
+</div>
+--- P1024 [Normal] ---
+</section>
+--- P1025 [Normal] ---
+function normalizeCampusLifeUrl(url: string): string { if (url.startsWith("http://localhost:8081/")) {
+--- P1026 [Normal] ---
+return url.replace("http://localhost:8081", "");
+--- P1027 [Normal] ---
+}
+--- P1028 [Normal] ---
+return url;
+--- P1029 [Normal] ---
+}
+--- P1030 [Normal] ---
+export default function CampusLifeChatbot() { const navigate = useNavigate();
+--- P1031 [Normal] ---
+return (
+--- P1032 [Normal] ---
+<button type="button" onClick={() => {
+--- P1033 [Normal] ---
+void navigate({ to: "/ai-assistant" });
+--- P1034 [Normal] ---
+}}
+--- P1035 [Normal] ---
+
+--- P1036 [Normal] ---
+
+--- P1037 [Normal] ---
+
+--- P1038 [Normal] ---
+aria-label="Open CampusLife AI"
+--- P1039 [Normal] ---
+className="fixed bottom-24 right-4 z-50 grid size-14 place-items-center rounded-2xl bg-primary text-primary-foreground shadow-raised transition-all duration-300 hover:scale-105 hover:shadow-lg active:scale-95 md:bottom-8 md:right-8"
+--- P1040 [Normal] ---
+>
+--- P1041 [Normal] ---
+<Sparkles className="size-6" aria-hidden="true"
+--- P1042 [Normal] ---
+/>
+--- P1043 [Normal] ---
+</button>
+--- P1044 [Normal] ---
+);
+--- P1045 [Normal] ---
+
+--- P1046 [Normal] ---
+
+--- P1047 [Body Text] ---
+
+--- P1048 [Body Text] ---
+
+--- P1049 [Body Text] ---
+
+--- P1050 [Body Text] ---
+
+--- P1051 [Heading 1] ---
+APPENDIX B SCREENSHOTS
+--- P1052 [Heading 2] ---
+SCREENSHOTS
+--- P1053 [Body Text] ---
+
+--- P1054 [Body Text] ---
+
+--- P1055 [Body Text] ---
+
+--- P1056 [Heading 3] ---
+Figure B. 1 CampusLife App in Play Store	Figure B. 2 DashBoard
+--- P1057 [Heading 3] ---
+
+--- P1058 [Body Text] ---
+
+--- P1059 [Body Text] ---
+
+--- P1060 [Normal] ---
+	
+--- P1061 [Body Text] ---
+
+--- P1062 [Body Text] ---
+
+--- P1063 [Heading 3] ---
+Figure B. 3 Study Resources	Figure B. 4 Resource Sharing
+--- P1064 [Heading 3] ---
+
+--- P1065 [Body Text] ---
+
+--- P1066 [Body Text] ---
+
+--- P1067 [Normal] ---
+	
+--- P1068 [Body Text] ---
+
+--- P1069 [Heading 3] ---
+Figure B. 5 Campus Event	Figure B. 6 Lost and Found
+--- P1070 [Heading 3] ---
+
+--- P1071 [Body Text] ---
+
+--- P1072 [Body Text] ---
+
+--- P1073 [Body Text] ---
+
+--- P1074 [Body Text] ---
+
+--- P1075 [Normal] ---
+	
+--- P1076 [Body Text] ---
+
+--- P1077 [Body Text] ---
+
+--- P1078 [Heading 3] ---
+Figure B. 7 Marketplace Messages	Figure B. 8 Lost and Found messages
+--- P1079 [Heading 3] ---
+
+--- P1080 [Body Text] ---
+
+--- P1081 [Body Text] ---
+
+--- P1082 [Normal] ---
+	
+--- P1083 [Body Text] ---
+
+--- P1084 [Heading 1] ---
+Figure B. 9 AI assistant	Figure B. 10 Profile
+--- P1085 [Heading 1] ---
+
+--- P1086 [Body Text] ---
+
+--- P1087 [Body Text] ---
+
+--- P1088 [Normal] ---
+
+--- P1089 [Body Text] ---
+
+--- P1090 [Heading 1] ---
+Figure B. 11 Admin Dashboard
+--- P1091 [Heading 1] ---
+
+--- P1092 [Heading 1] ---
+
+--- P1093 [Heading 1] ---
+REFERENCES
+--- P1094 [Body Text] ---
+
+--- P1095 [List Paragraph] ---
+Alvi, I., 2021. College students’ reception of social networking tools for learning in India: An extended UTAUT model. Smart Learning Environments, 8(1), p.19.
+--- P1096 [List Paragraph] ---
+Dong, X., Kong, X., Zhang, F., Chen, Z. and Kang, J., 2016. OnCampus: a mobile platform towards a smart campus. SpringerPlus, 5(1), p.974.
+--- P1097 [List Paragraph] ---
+Eid, M.I. and Al-Jabri, I.M., 2016. Social networking, knowledge sharing, and student learning: The case of university students. Computers & education, 99, pp.14
+--- P1098 [List Paragraph] ---
+Kadam, A.J., Singh, A., Jagtap, K. and Tankala, S., 2017. Mobile web based android application for college management system. Int. J. Eng. Comput. Sci, 6(2), pp.20206-20209.
+--- P1099 [List Paragraph] ---
+Khatri, I.A., Ghonge, M., Mirajkar, R., Shinde, S., Hon, R. and Yenkikar, A., 2024, October. Enhancing Campus Engagement with A Secure and Comprehensive Platform for Club Management and Student Participation.
+--- P1100 [List Paragraph] ---
+Sarkar, R. and Chakraborty, M., 2026. Embedding Inclusivity and Sustainability in Smart Higher Education: From Digitalization to Democratization. In Reinventing Higher Education Through Digital Transformation and Smart Campuses (pp. 165-220). IGI Global Scientific Publishing.
+--- P1101 [List Paragraph] ---
+Tombeng, M.T., Mandias, G.F. and Putra, E.Y., 2024. U-MATE: Student And Lecturer Location-Based Social Network Aplication. CogITo Smart Journal, 10(2), pp.352-365
+--- P1102 [List Paragraph] ---
+Wang, C., Zhang, H. and Feng, X., 2024, November. Research on the Development of a Campus Comprehensive Service App for College Students. In 2024 IEEE First International Conference on Data Intelligence and Innovative Application (DIIA) (pp. 1-7). IEEE.
+--- P1103 [List Paragraph] ---
+Zanke, A. and Kadam, P., AlumniConnect: A Data-Driven Recommendation Framework for Alumni–Student Mentorship with Secure Real-Time Communication.
+--- P1104 [List Paragraph] ---
+Zhou, J., Wang, W. and Ge, L., 2011, September. Constructing campus mobile SNS based on FOAF. In 2011 Second International Conference on Networking and Distributed Computing (pp. 324-328). IEEE.
+--- P1105 [List Paragraph] ---
+
+--- P1106 [Body Text] ---
+
+--- P1107 [Body Text] ---
+
+--- P1108 [Body Text] ---
+
+--- P1109 [Heading 2] ---
+LIST OF PUBLICATIONS
+--- P1110 [Body Text] ---
+
+--- P1111 [Body Text] ---
+
+--- P1112 [Normal] ---
+CampusLife – KRCT	CampusLife – KRCT: A Unified Hub for Student
+--- P1113 [Body Text] ---
+Resources and Community
+--- P1114 [Normal] ---
+Platform	Google Play Store
+--- P1115 [Normal] ---
+Publication Status	Published
+--- P1116 [Normal] ---
+Application URL	https://play.google.com/store/apps/details?id=com.ca
+--- P1117 [Body Text] ---
+mpuslife.app
+
+=== TABLE 0 (20x3) ===
+R0: CHAPTER | TITLE | PAGE NO.
+R1:  | ABSTRACT | iii
+R2:  | LIST OF TABLES | viii
+R3:  | LIST OF FIGURES | ix
+R4:  | LIST OF ABBREVIATIONS | x
+R5: 1 | INTRODUCTION | 1
+R6:  | 1.1 DESCRIPTION | 1
+R7:  | 1.2 SYSTEM OVERVIEW | 1
+R8:  | 1.2.1 Study Resources and Campus Events | 2
+R9:  | 1.2.2 Student Marketplace & Lost and Found | 2
+R10:  | 1.2.3 Administartion & Student Support | 2
+R11:  | 1.3 OBJECTIVE | 3
+R12:  | 1.4 SCOPE OF THE PROJECT | 3
+R13:  | 1.4.1 Data Management | 3
+R14:  | 1.4.2 Security & Access Control | 4
+R15:  | 1.4.3 System Scalability | 4
+R16:  | 1.5 NEED FOR THE SYSTEM | 4
+R17: 2 | LITERATURE SURVEY | 5
+R18: 3 | EXISTING SYSTEM | 15
+R19: 4 | PROBLEMS IDENTIFIED | 17
+
+=== TABLE 1 (2x3) ===
+R0: TABLE NO. | TABLE NAME | PAGE NO.
+R1: 7.1 | Modules Description | 24
+
+=== TABLE 2 (14x3) ===
+R0: FIGURE NO. | FIGURE NAME | PAGE NO.
+R1: 3.1 | Existing System | 16
+R2: 5.1 | Proposed System | 20
+R3: B. 1 | CampusLife App in Play Store | 63
+R4: B. 2 | Dash Board | 63
+R5: B. 3 | Study Resource | 64
+R6: B. 4 | Resource Sharing | 64
+R7: B. 5 | Campus Event | 65
+R8: B. 6 | Lost and Found | 65
+R9: B. 7 | Marketplace Message | 66
+R10: B. 8 | Lost and Found Message | 66
+R11: B. 9 | AI Assistant | 67
+R12: B. 10 | Profile | 67
+R13: B. 11 | Admin Dashboard | 68
+
+=== TABLE 3 (9x2) ===
+R0: Module Name | Description
+R1: Student Registration & Profile | Handles student registration using college register numbers and manages student profile information.
+R2: Study Resources | Allows students to share, access, and manage academic study materials.
+R3: Campus Events | Provides information about college events, workshops, seminars, and other campus activities.
+R4: Student Marketplace | Allows students to post, view, buy, and sell items within the college community.
+R5: Lost & Found | Allows students to report lost or found belongings and view related posts.
+R6: Messaging & Reporting | Provides purpose-specific communication for marketplace and lost-and-found interactions and allows users to report inappropriate content or misinformation.
+R7: Admin Management | Enables administrators to manage student details, events, marketplace listings, lost-and-found records, and submitted reports.
+R8: AI Chatbot | Helps students find relevant information about study resources, campus events, marketplace listings, and lost-and-found posts.

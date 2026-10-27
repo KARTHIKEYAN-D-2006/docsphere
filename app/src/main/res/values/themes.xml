@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme — NoActionBar so Compose controls the UI fully.
+         Edge-to-edge is handled programmatically in MainActivity. -->
+    <style name="Theme.Docsphere" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/navy_deep</item>
+        <item name="android:statusBarColor">@color/navy_deep</item>
+        <item name="android:navigationBarColor">@color/navy_deep</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

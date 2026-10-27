@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navy palette for XML-based theme (launch screen, window bg) -->
+    <color name="navy_deep">#FF050B18</color>
+    <color name="navy_dark">#FF0A1628</color>
+    <color name="electric_blue">#FF2979FF</color>
+    <color name="teal_emerald">#FF00BFA5</color>
+    <color name="amber_gold">#FFFFAB00</color>
+    <color name="text_primary">#FFF0F4FF</color>
+</resources>

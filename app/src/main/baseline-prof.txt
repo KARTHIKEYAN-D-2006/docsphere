@@ -1,0 +1,30 @@
+# DocSphere Baseline Profile Rules
+# Pre-compiles startup path, main activity, compose UI runtime, navigation, and retrieval database
+Lcom/docsphere/DocSphereApplication;
+Lcom/docsphere/MainActivity;
+Lcom/docsphere/ui/navigation/DocSphereNavHostKt;
+Lcom/docsphere/ui/navigation/Screen;
+Lcom/docsphere/ui/navigation/DocSphereBottomBarKt;
+Lcom/docsphere/ui/home/HomeScreenKt;
+Lcom/docsphere/ui/home/HomeViewModel;
+Lcom/docsphere/ui/files/FilesScreenKt;
+Lcom/docsphere/ui/files/FilesViewModel;
+Lcom/docsphere/ui/chat/ChatScreenKt;
+Lcom/docsphere/ui/chat/ChatViewModel;
+Lcom/docsphere/ui/components/ChatBubbleKt;
+Lcom/docsphere/ui/components/FileCardKt;
+Lcom/docsphere/ui/components/MarkdownTextKt;
+Lcom/docsphere/ai/AiRouter;
+Lcom/docsphere/ai/embedding/OnDeviceEmbedder;
+Lcom/docsphere/ai/offline/GeminiNanoEngine;
+Lcom/docsphere/ai/offline/OfflineModelManager;
+Lcom/docsphere/data/repository/DocumentRepository;
+Lcom/docsphere/data/repository/DocumentRetrievalEngine;
+Lcom/docsphere/data/local/DocSphereDatabase;
+Lcom/docsphere/data/local/DocumentDao;
+Lcom/docsphere/data/local/ChunkDao;
+Lcom/docsphere/data/local/ChunkEmbeddingDao;
+Lcom/docsphere/data/local/DocumentFieldDao;
+Landroidx/compose/runtime/ComposerImpl;
+Landroidx/compose/foundation/lazy/LazyListState;
+Landroidx/compose/material3/ScaffoldKt;
